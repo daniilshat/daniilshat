@@ -18,10 +18,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://t.me/wa1pper" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="30" width="40" /></a>
-<a href="https://vk.com/daniilshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="30" width="30" /></a>
-<a href="https://codepen.io/daniilshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/codepen.svg" alt="daniilshat" height="30" width="40" /></a>
-<a href="https://habr.com/ru/users/daniilshat/posts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="daniilshat" height="50" width="50" /></a>
+<a href="https://t.me/wa1pper" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://vk.com/daniilshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://codepen.io/daniilshat" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/codepen.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://habr.com/ru/users/daniilshat/posts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="daniilshat" height="60" width="60" /></a>
 </p>
 
 <h2 align="left">Languages::</h2>
@@ -37,8 +37,15 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h2 align="left">Tools:</h2>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/clion.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/WebStorm.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
