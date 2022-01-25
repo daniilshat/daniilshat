@@ -56,6 +56,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilshat&show_icons=true&theme=dark&locale=en&layout=compact" alt="daniilshat" /></p>
 
 
+
+### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
