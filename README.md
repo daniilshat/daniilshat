@@ -3,9 +3,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniilshat&label=Profile%20views&color=d052e0&style=flat" alt="daniilshat" /> 
-</p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniilshat" alt="daniilshat" /></a> 
 </p>
@@ -60,7 +57,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
-```text
-Markdown   25 mins         █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
