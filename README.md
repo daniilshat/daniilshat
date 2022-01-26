@@ -59,7 +59,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
