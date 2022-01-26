@@ -57,4 +57,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
+```text
+Python     1 hr 19 mins    ██████████████████▓░░░░░░   74.12 % 
+Markdown   26 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+```
 <!--END_SECTION:waka-->
