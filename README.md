@@ -58,6 +58,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
+Total: 49 mins
+
 Python       30 mins         ███████████████▓░░░░░░░░░   62.28 % 
 ObjectiveC   8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 Makefile     8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
