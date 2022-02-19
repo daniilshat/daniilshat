@@ -58,8 +58,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
 
 ```
 <!--END_SECTION:waka-->
