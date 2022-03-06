@@ -4,8 +4,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniilshat" alt="daniilshat" /></a> 
-</p>
 
 - 🌱 I’m currently learning **python, machine learning, c++, web**
 
