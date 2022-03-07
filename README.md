@@ -48,10 +48,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
-### GitHub languages stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilshat&show_icons=true&theme=dark&locale=en&layout=compact" alt="daniilshat" /></p>
-
-
 
 ### 🧑‍💻 This week I spent my time on
 <!--START_SECTION:waka-->
