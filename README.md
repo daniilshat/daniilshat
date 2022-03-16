@@ -53,9 +53,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-CMake            0 secs          ███████████████████▒░░░░░   77.87 %
-C++              0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
