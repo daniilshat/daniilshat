@@ -61,7 +61,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Samsung представила новый Galaxy Chromebook 2 360](https://habr.com/ru/post/657741/)
+- [Samsung представила Galaxy Chromebook 2 360](https://habr.com/ru/post/657741/)
 - [Netflix купила игровую студию Boss Fight Entertainment](https://habr.com/ru/post/657417/)
 - [Бывшие модераторы TikTok подали в суд и жалуются на «психологическую травму»](https://habr.com/ru/post/657377/)
 - [Mediascope: после блокировки Instagram** россияне стали проводить в соцсети в три раза меньше времени](https://habr.com/ru/post/657347/)
