@@ -61,9 +61,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст собрал мини-пинбол на Raspberry Pi](https://habr.com/ru/post/657831/)
 - [Евросоюз может заставить Apple легализовать альтсторы](https://habr.com/ru/post/657815/)
 - [Samsung представила линейку мониторов M8](https://habr.com/ru/post/657803/)
 - [Состоялся релиз Qt Creator 7](https://habr.com/ru/post/657773/)
 - [Samsung представила Galaxy Chromebook 2 360](https://habr.com/ru/post/657741/)
-- [Netflix купила игровую студию Boss Fight Entertainment](https://habr.com/ru/post/657417/)
 <!-- BLOG-POST-LIST:END -->  
