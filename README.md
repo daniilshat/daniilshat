@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <h3 align="center">Computer science student and IT news writer</h3>
 
-[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
+[![codewars](https://www.codewars.com/users/daniilshat/badges/large)](https://www.codewars.com/users/daniilshat)  
 
 
 - 🌱 I’m currently learning **python, machine learning, c++, web**
