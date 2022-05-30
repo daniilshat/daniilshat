@@ -53,12 +53,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.20 %
-TOML             2 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-Markdown         1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
-GitIgnore file   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-HTML             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JSON             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Markdown         4 hrs 31 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 %
+Java             4 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+TOML             2 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+JSON             1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+GitIgnore file   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+HTML             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
