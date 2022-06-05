@@ -53,12 +53,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     4 hrs 51 mins   █████████████▓░░░░░░░░░░░   55.04 %
-TOML         1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-JSON         1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-YAML         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Arduino      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Markdown     8 hrs 12 mins   ██████████████████░░░░░░░   72.31 %
+TOML         1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+JSON         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+YAML         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Arduino      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
