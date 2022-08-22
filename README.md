@@ -52,7 +52,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+XML          3 mins          █████████████████░░░░░░░░   68.30 %
+HTML         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+JavaScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
