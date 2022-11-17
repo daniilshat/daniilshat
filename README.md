@@ -52,7 +52,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   3 hrs 25 mins   █████████████████████████   100.00 %
+Markdown   3 hrs 25 mins   ████████████████████████▒   97.93 %
+TOML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
