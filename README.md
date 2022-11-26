@@ -52,9 +52,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TOML             0 secs          ██████████████████▓░░░░░░   75.15 %
-GitIgnore file   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-HTML             0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+GitIgnore file   0 secs          ████████████▓░░░░░░░░░░░░   51.26 %
+HTML             0 secs          ████████████▒░░░░░░░░░░░░   48.74 %
 ```
 
 <!--END_SECTION:waka-->
