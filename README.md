@@ -59,9 +59,9 @@ Python   47 mins         ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple представила процессоры M2 Pro и M2 Max для MacBook Pro и Mac mini](https://habr.com/ru/post/711270/)
 - [Apple представила MacBook Pro на базе чипов M2 Pro и Max](https://habr.com/ru/post/711264/)
 - [Nova представила наушники-серьги H1 Audio Earrings](https://habr.com/ru/post/711218/)
 - [Apple TV с tvOS 16 требует iPhone для обновления настроек Apple ID или принятия новых условий iCloud](https://habr.com/ru/post/711156/)
 - [«Яндекс Доставка» стала междугородней](https://habr.com/ru/post/710966/)
-- [Apple Card принесла убытков Goldman Sachs на сумму более $1 млрд](https://habr.com/ru/post/710954/)
 <!-- BLOG-POST-LIST:END -->  
