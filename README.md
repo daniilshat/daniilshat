@@ -52,9 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSS        25 mins         █████████████████▒░░░░░░░   68.94 %
-Markdown   11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
