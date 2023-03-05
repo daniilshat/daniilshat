@@ -52,8 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     8 hrs 49 mins   ████████████████████████░   95.78 %
-JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Markdown   8 hrs 49 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
