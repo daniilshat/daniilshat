@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз фреймворка Qt 6.5](https://habr.com/ru/post/726618/)
 - [JetBrains выпустила обновление IDE для автоматизации тестирования Aqua](https://habr.com/ru/post/726560/)
 - [Вышло обновление WebStorm 2023.1](https://habr.com/ru/post/726542/)
 - [Вышел Swift 5.8](https://habr.com/ru/post/726088/)
 - [Состоялся релиз Xcode 14.3 с SDK для iOS 16.4 и macOS 13.3](https://habr.com/ru/post/726066/)
-- [GitHub представила плагин GitHub Actions для Visual Studio Code](https://habr.com/ru/post/726042/)
 <!-- BLOG-POST-LIST:END -->  
