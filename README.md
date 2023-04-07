@@ -59,9 +59,9 @@ Markdown   3 hrs 12 mins   █████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила Safari Technology Preview 167](https://habr.com/ru/news/727690/)
 - [Google выпустила бета-версию Chrome 113](https://habr.com/ru/news/727650/)
 - [Microsoft выпустила PowerToys 0.69 с утилитой Registry Preview](https://habr.com/ru/news/727544/)
 - [В бета-версии Chrome 113 появилась поддержка WebGPU](https://habr.com/ru/news/727492/)
 - [Состоялся релиз фреймворка Electron 24](https://habr.com/ru/news/727488/)
-- [У хакеров есть возможность удалённо открывать умные гаражные ворота Nexx](https://habr.com/ru/news/727284/)
 <!-- BLOG-POST-LIST:END -->  
