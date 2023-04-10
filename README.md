@@ -59,9 +59,9 @@ Markdown   3 hrs 12 mins   █████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi выпустила онлайн-редактор кода для обучения детей](https://habr.com/ru/news/728090/)
 - [ECMAScript 2023 добавит в JavaScript новые методы для работы с массивами](https://habr.com/ru/news/728066/)
 - [Meta* представила систему сборки Buck2](https://habr.com/ru/news/727824/)
 - [GitHub обновила списки задач и таблицы проектов в репозиториях](https://habr.com/ru/news/727728/)
 - [Apple выпустила Safari Technology Preview 167](https://habr.com/ru/news/727690/)
-- [Google выпустила бета-версию Chrome 113](https://habr.com/ru/news/727650/)
 <!-- BLOG-POST-LIST:END -->  
