@@ -52,11 +52,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           6 mins          ██████████░░░░░░░░░░░░░░░   40.55 %
-Bash             4 mins          ████████▒░░░░░░░░░░░░░░░░   32.81 %
-AUTO_DETECTED    2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-GitIgnore file   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
