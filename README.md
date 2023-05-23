@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз PowerToys 0.70 с утилитами Mouse Without Borders и Peek](https://habr.com/ru/news/737126/)
 - [Умные осветительные приборы Yeelight Pro получили поддержку протокола Matter](https://habr.com/ru/news/737124/)
 - [Final Cut Pro и Logic Pro для iPad стали доступны в App Store](https://habr.com/ru/news/737116/)
 - [В бета-версии Photoshop появились генеративные ИИ-функции](https://habr.com/ru/news/737100/)
 - [Google начала тестировать в Chrome индикацию потребления памяти отдельными вкладками](https://habr.com/ru/news/737080/)
-- [Google запустила программу Bug Bounty для своих Android-приложений](https://habr.com/ru/news/736986/)
 <!-- BLOG-POST-LIST:END -->  
