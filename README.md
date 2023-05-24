@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple объявила финалистов премии Apple Design Award 2023](https://habr.com/ru/news/737196/)
 - [Состоялся релиз PowerToys 0.70 с утилитами Mouse Without Borders и Peek](https://habr.com/ru/news/737126/)
 - [Умные осветительные приборы Yeelight Pro получили поддержку протокола Matter](https://habr.com/ru/news/737124/)
 - [Final Cut Pro и Logic Pro для iPad стали доступны в App Store](https://habr.com/ru/news/737116/)
 - [В бета-версии Photoshop появились генеративные ИИ-функции](https://habr.com/ru/news/737100/)
-- [Google начала тестировать в Chrome индикацию потребления памяти отдельными вкладками](https://habr.com/ru/news/737080/)
 <!-- BLOG-POST-LIST:END -->  
