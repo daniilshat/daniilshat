@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила наушники Beats Studio Pro](https://habr.com/ru/news/749318/)
 - [Оборудование IMAX до сих пор работает на базе PalmOne](https://habr.com/ru/news/749296/)
 - [Microsoft добавила в Teams AR-фильтры «виртуального макияжа» от Maybelline](https://habr.com/ru/news/749266/)
 - [Публикация Stories в Telegram на старте будет доступна только владельцам премиальной подписки](https://habr.com/ru/news/749256/)
 - [Энтузиаст разогнал Super Game Boy до 5,35 МГц](https://habr.com/ru/news/749232/)
-- [В Steam выпустили версию мода Portal: Prelude с поддержкой RTX](https://habr.com/ru/news/749014/)
 <!-- BLOG-POST-LIST:END -->  
