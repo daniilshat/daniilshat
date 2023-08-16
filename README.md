@@ -62,9 +62,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Xiaomi представила робособаку CyberDog 2](https://habr.com/ru/news/754556/)
-- [Вышли стабильные версии библиотек Compose 1.2 и Tiles 1.2 для Wear OS](https://habr.com/ru/news/754544/)
-- [Вышло обновление Goodnote 6 — популярного приложения для рукописных заметок на iPad](https://habr.com/ru/news/754480/)
-- [Истории в Telegram станут доступны всем пользователям, но с ограничениями по количеству публикаций](https://habr.com/ru/news/754442/)
-- [JetBrains представила Ask AI — генеративную нейросеть для работы с данными в Datalore](https://habr.com/ru/news/754420/)
+- [GitHub подвела итоги своей программы Security Bug Bounty за 2022 год](https://habr.com/ru/news/754808/?utm_campaign=754808&utm_source=habrahabr&utm_medium=rss)
+- [Энтузиаст встроил в Mac mini на M1 питание по Ethernet](https://habr.com/ru/news/754770/?utm_campaign=754770&utm_source=habrahabr&utm_medium=rss)
+- [Любой пользователь может просматривать данные школьников в приложении Saturn, но компания заявляет о конфиденциальности](https://habr.com/ru/news/754728/?utm_campaign=754728&utm_source=habrahabr&utm_medium=rss)
+- [Вышло обновление российского веб-сервера Angie PRO](https://habr.com/ru/news/754690/?utm_campaign=754690&utm_source=habrahabr&utm_medium=rss)
+- [Xiaomi представила робособаку CyberDog 2](https://habr.com/ru/news/754556/?utm_campaign=754556&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
