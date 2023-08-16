@@ -62,9 +62,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиаст изготовил устройство, подсказывающее, когда пора менять подгузник ребёнку](https://habr.com/ru/news/755112/?utm_campaign=755112&utm_source=habrahabr&utm_medium=rss)
 - [GitHub анонсировала Universe — конференцию для разработчиков](https://habr.com/ru/news/755104/?utm_campaign=755104&utm_source=habrahabr&utm_medium=rss)
 - [Мобильное приложение GitHub теперь поддерживает работу с несколькими профилями](https://habr.com/ru/news/755062/?utm_campaign=755062&utm_source=habrahabr&utm_medium=rss)
 - [GitHub подвела итоги своей программы Security Bug Bounty за 2022 год](https://habr.com/ru/news/754808/?utm_campaign=754808&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст встроил в Mac mini на M1 питание по Ethernet](https://habr.com/ru/news/754770/?utm_campaign=754770&utm_source=habrahabr&utm_medium=rss)
-- [Любой пользователь может просматривать данные школьников в приложении Saturn, но компания заявляет о конфиденциальности](https://habr.com/ru/news/754728/?utm_campaign=754728&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
