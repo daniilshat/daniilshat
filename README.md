@@ -60,9 +60,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Epic Games открыла инструменты кроссплатформенной разработки для консолей](https://habr.com/ru/news/755260/?utm_campaign=755260&utm_source=habrahabr&utm_medium=rss)
 - [В CrossOver 23 появилась поддержка Direct X 12](https://habr.com/ru/news/755194/?utm_campaign=755194&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст изготовил устройство, подсказывающее, когда пора менять подгузник ребёнку](https://habr.com/ru/news/755112/?utm_campaign=755112&utm_source=habrahabr&utm_medium=rss)
 - [GitHub анонсировала Universe — конференцию для разработчиков](https://habr.com/ru/news/755104/?utm_campaign=755104&utm_source=habrahabr&utm_medium=rss)
 - [Мобильное приложение GitHub теперь поддерживает работу с несколькими профилями](https://habr.com/ru/news/755062/?utm_campaign=755062&utm_source=habrahabr&utm_medium=rss)
-- [GitHub подвела итоги своей программы Security Bug Bounty за 2022 год](https://habr.com/ru/news/754808/?utm_campaign=754808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
