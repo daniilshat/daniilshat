@@ -61,9 +61,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft и Open Web Docs обновили документацию по PWA на портале MDN](https://habr.com/ru/news/755564/?utm_campaign=755564&utm_source=habrahabr&utm_medium=rss)
 - [Fallout 4: Game of the Year Edition теперь доступна без DRM в GOG](https://habr.com/ru/news/755554/?utm_campaign=755554&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил браузерное расширение, которое убирает значки верификации Twitter Blue и возвращает старые галочки](https://habr.com/ru/news/755538/?utm_campaign=755538&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Docker Desktop 4.22](https://habr.com/ru/news/755518/?utm_campaign=755518&utm_source=habrahabr&utm_medium=rss)
 - [Релиз фреймворка Flutter 3.13](https://habr.com/ru/news/755468/?utm_campaign=755468&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст собрал трекер фаз Луны на Raspberry Pi и электронных чернилах](https://habr.com/ru/news/755356/?utm_campaign=755356&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
