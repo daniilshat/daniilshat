@@ -61,9 +61,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Релиз Docker Desktop 4.22](https://habr.com/ru/news/755518/?utm_campaign=755518&utm_source=habrahabr&utm_medium=rss)
 - [Релиз фреймворка Flutter 3.13](https://habr.com/ru/news/755468/?utm_campaign=755468&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст собрал трекер фаз Луны на Raspberry Pi и электронных чернилах](https://habr.com/ru/news/755356/?utm_campaign=755356&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games открыла инструменты кроссплатформенной разработки для консолей](https://habr.com/ru/news/755260/?utm_campaign=755260&utm_source=habrahabr&utm_medium=rss)
 - [В CrossOver 23 появилась поддержка Direct X 12](https://habr.com/ru/news/755194/?utm_campaign=755194&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст изготовил устройство, подсказывающее, когда пора менять подгузник ребёнку](https://habr.com/ru/news/755112/?utm_campaign=755112&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
