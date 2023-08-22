@@ -60,9 +60,9 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики представили протокол p2panda, предназначенный для работы в децентрализованных сетях](https://habr.com/ru/news/756308/?utm_campaign=756308&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Parallels Desktop 19: поддержка macOS Sonoma и авторизация с помощью Touch ID](https://habr.com/ru/news/756304/?utm_campaign=756304&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз дистрибутива Bazzite на базе Fedora Linux 38, оптимизированного для запуска игр](https://habr.com/ru/news/756182/?utm_campaign=756182&utm_source=habrahabr&utm_medium=rss)
 - [Google запустила «Центр прозрачности» с полным описанием политик всех своих продуктов в одном месте](https://habr.com/ru/news/756016/?utm_campaign=756016&utm_source=habrahabr&utm_medium=rss)
 - [В продаже появился ПК Mifcom Big Boss с семью видеокартами RTX 4090](https://habr.com/ru/news/755996/?utm_campaign=755996&utm_source=habrahabr&utm_medium=rss)
-- [Исследователь безопасности использовал Raspberry Pi и Bluetooth-адаптер для отправки системных уведомлений на iPhone](https://habr.com/ru/news/755962/?utm_campaign=755962&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
