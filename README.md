@@ -60,9 +60,9 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Docker Hub теперь поддерживает работу с IPv6](https://habr.com/ru/news/756564/?utm_campaign=756564&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи продолжают жаловаться на конденсат, возникающий внутри наушников AirPods Max из-за особенностей конструкции](https://habr.com/ru/news/756522/?utm_campaign=756522&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Figma DevMode](https://habr.com/ru/news/756476/?utm_campaign=756476&utm_source=habrahabr&utm_medium=rss)
 - [Вышел Git 2.42](https://habr.com/ru/news/756428/?utm_campaign=756428&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил GodMode — инструмент для одновременного доступа к популярным чат-ботам](https://habr.com/ru/news/756356/?utm_campaign=756356&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики представили протокол p2panda, предназначенный для работы в децентрализованных сетях](https://habr.com/ru/news/756308/?utm_campaign=756308&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
