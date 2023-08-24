@@ -60,9 +60,9 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Meta* выпустила Code Llama — нейросеть для генерации программного кода на базе языковой модели Llama 2](https://habr.com/ru/news/756798/?utm_campaign=756798&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Trace — веб-портал, позволяющий делиться компонентами SwiftUI](https://habr.com/ru/news/756732/?utm_campaign=756732&utm_source=habrahabr&utm_medium=rss)
 - [Dataherald выпустила одноимённый инструмент для поддержки естественного языка в SQL](https://habr.com/ru/news/756698/?utm_campaign=756698&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Bun 0.8 — среды выполнения JavaScript и TypeScript](https://habr.com/ru/news/756670/?utm_campaign=756670&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Chaindesk — ноукод-платформу для создания чат-ботов на базе пользовательских данных](https://habr.com/ru/news/756640/?utm_campaign=756640&utm_source=habrahabr&utm_medium=rss)
-- [Docker Hub теперь поддерживает работу с IPv6](https://habr.com/ru/news/756564/?utm_campaign=756564&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
