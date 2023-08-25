@@ -59,9 +59,9 @@ Markdown   3 mins          █████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз языка программирования Rust 1.72.0](https://habr.com/ru/news/756966/?utm_campaign=756966&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил утилиту Color Manager, позволяющую быстро перекрашивать наборы SVG-иконок и темы для Linux](https://habr.com/ru/news/756938/?utm_campaign=756938&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains рассказала о том, как установить Rider IDE на Steam Deck](https://habr.com/ru/news/756884/?utm_campaign=756884&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила Code Llama — нейросеть для генерации программного кода на базе языковой модели Llama 2](https://habr.com/ru/news/756798/?utm_campaign=756798&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Trace — веб-портал, позволяющий делиться компонентами SwiftUI](https://habr.com/ru/news/756732/?utm_campaign=756732&utm_source=habrahabr&utm_medium=rss)
-- [Dataherald выпустила одноимённый инструмент для поддержки естественного языка в SQL](https://habr.com/ru/news/756698/?utm_campaign=756698&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
