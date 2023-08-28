@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI представила корпоративную версию ChatGPT Enterprise на базе языковой модели GPT-4](https://habr.com/ru/news/757508/?utm_campaign=757508&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Alfred — открытую утилиту для OSINT](https://habr.com/ru/news/757502/?utm_campaign=757502&utm_source=habrahabr&utm_medium=rss)
 - [Расширение Continue для VS Code теперь можно использовать с Code Llama от Meta*](https://habr.com/ru/news/757434/?utm_campaign=757434&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз DisplayBuddy 2.0 — утилиты для управления внешними мониторами в macOS](https://habr.com/ru/news/757398/?utm_campaign=757398&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Factorio анонсировали космическое дополнение Space Age](https://habr.com/ru/news/757018/?utm_campaign=757018&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз языка программирования Rust 1.72.0](https://habr.com/ru/news/756966/?utm_campaign=756966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
