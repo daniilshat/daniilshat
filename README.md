@@ -60,9 +60,9 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Специалисты iFixit планируют добиться права на самостоятельный ремонт аппаратов по производству мороженого McDonald’s](https://habr.com/ru/news/757748/?utm_campaign=757748&utm_source=habrahabr&utm_medium=rss)
 - [Комиссия экспертов подготовит поправки в закон «О некоммерческих организациях», ограничивающий работу с Open Source](https://habr.com/ru/news/757744/?utm_campaign=757744&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Pollen API для получения данных о пыльце по всему миру](https://habr.com/ru/news/757734/?utm_campaign=757734&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила корпоративную версию ChatGPT Enterprise на базе языковой модели GPT-4](https://habr.com/ru/news/757508/?utm_campaign=757508&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Alfred — открытую утилиту для OSINT](https://habr.com/ru/news/757502/?utm_campaign=757502&utm_source=habrahabr&utm_medium=rss)
-- [Расширение Continue для VS Code теперь можно использовать с Code Llama от Meta*](https://habr.com/ru/news/757434/?utm_campaign=757434&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
