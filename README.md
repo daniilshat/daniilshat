@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Комиссия экспертов подготовит поправки в закон «О некоммерческих организациях», ограничивающий работу с Open Source](https://habr.com/ru/news/757744/?utm_campaign=757744&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Pollen API для получения данных о пыльце по всему миру](https://habr.com/ru/news/757734/?utm_campaign=757734&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила корпоративную версию ChatGPT Enterprise на базе языковой модели GPT-4](https://habr.com/ru/news/757508/?utm_campaign=757508&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили Alfred — открытую утилиту для OSINT](https://habr.com/ru/news/757502/?utm_campaign=757502&utm_source=habrahabr&utm_medium=rss)
 - [Расширение Continue для VS Code теперь можно использовать с Code Llama от Meta*](https://habr.com/ru/news/757434/?utm_campaign=757434&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз DisplayBuddy 2.0 — утилиты для управления внешними мониторами в macOS](https://habr.com/ru/news/757398/?utm_campaign=757398&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
