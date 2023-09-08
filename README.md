@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики Starfield на просьбу оптимизировать игру посоветовали обновить компьютеры](https://habr.com/ru/news/759682/?utm_campaign=759682&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Оплата улыбкой» от «Сбера» перепутал близнецов](https://habr.com/ru/news/759646/?utm_campaign=759646&utm_source=habrahabr&utm_medium=rss)
 - [Сервис кикшеринга Whoosh провёл испытания электросамоката с нейроинтерфейсом](https://habr.com/ru/news/759642/?utm_campaign=759642&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили обновление UI-фреймворка Slint 1.2](https://habr.com/ru/news/759632/?utm_campaign=759632&utm_source=habrahabr&utm_medium=rss)
 - [Российский веб-сервер Angie Pro получил совместимость с платформой «Вебмониторэкс»](https://habr.com/ru/news/759412/?utm_campaign=759412&utm_source=habrahabr&utm_medium=rss)
-- [Arduino объявила о партнёрстве с Amazon Web Services](https://habr.com/ru/news/758760/?utm_campaign=758760&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
