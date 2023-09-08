@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В iPadOS 17 появилась поддержка UVC, что позволяет подключать к устройству внешние камеры и карты захвата](https://habr.com/ru/news/759794/?utm_campaign=759794&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Starfield на просьбу оптимизировать игру посоветовали обновить компьютеры](https://habr.com/ru/news/759682/?utm_campaign=759682&utm_source=habrahabr&utm_medium=rss)
 - [Сервис «Оплата улыбкой» от «Сбера» перепутал близнецов](https://habr.com/ru/news/759646/?utm_campaign=759646&utm_source=habrahabr&utm_medium=rss)
 - [Сервис кикшеринга Whoosh провёл испытания электросамоката с нейроинтерфейсом](https://habr.com/ru/news/759642/?utm_campaign=759642&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили обновление UI-фреймворка Slint 1.2](https://habr.com/ru/news/759632/?utm_campaign=759632&utm_source=habrahabr&utm_medium=rss)
-- [Российский веб-сервер Angie Pro получил совместимость с платформой «Вебмониторэкс»](https://habr.com/ru/news/759412/?utm_campaign=759412&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
