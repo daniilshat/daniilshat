@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик VKD3D рассказал, что ошибки в коде Starfield замедляют игру и приводят к экстренному закрытию приложения](https://habr.com/ru/news/760370/?utm_campaign=760370&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратила поддержку первого поколения смартфона Surface Duo](https://habr.com/ru/news/760282/?utm_campaign=760282&utm_source=habrahabr&utm_medium=rss)
 - [Cinebench 2024 снова получил возможность тестировать производительность видеокарт](https://habr.com/ru/news/760180/?utm_campaign=760180&utm_source=habrahabr&utm_medium=rss)
 - [В iPadOS 17 появилась поддержка UVC, что позволяет подключать к устройству внешние камеры и карты захвата](https://habr.com/ru/news/759794/?utm_campaign=759794&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Starfield на просьбу оптимизировать игру посоветовали обновить компьютеры](https://habr.com/ru/news/759682/?utm_campaign=759682&utm_source=habrahabr&utm_medium=rss)
-- [Сервис «Оплата улыбкой» от «Сбера» перепутал близнецов](https://habr.com/ru/news/759646/?utm_campaign=759646&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
