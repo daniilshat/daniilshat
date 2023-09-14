@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google: Chromebook будут получать автоматические обновления в течение 10 лет](https://habr.com/ru/news/761184/?utm_campaign=761184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила дизайн лаунчера PowerToys Run с учётом особенностей Fluent UI](https://habr.com/ru/news/761172/?utm_campaign=761172&utm_source=habrahabr&utm_medium=rss)
 - [Action Button в iPhone 15 Pro на выбор предоставляет доступ к девяти опциям](https://habr.com/ru/news/761100/?utm_campaign=761100&utm_source=habrahabr&utm_medium=rss)
 - [В HeyGen Labs появилась ИИ-функция для дубляжа видео с сохранением голоса диктора](https://habr.com/ru/news/761032/?utm_campaign=761032&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Godot рассказали о работе над поддержкой AR и VR в одноимённом движке](https://habr.com/ru/news/760650/?utm_campaign=760650&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты обнаружили в Starfield ошибки в работе SSD](https://habr.com/ru/news/760568/?utm_campaign=760568&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
