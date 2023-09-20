@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Инженер использовал LED-матрицу и Raspberry Pi Pico W для вывода обложек воспроизводимых треков](https://habr.com/ru/news/762242/?utm_campaign=762242&utm_source=habrahabr&utm_medium=rss)
 - [Облачный сервис Airtable для работы с базами данных сокращает 237 сотрудников — 27% штата](https://habr.com/ru/news/762002/?utm_campaign=762002&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» выпустила обновление Angie 1.3.0](https://habr.com/ru/news/761970/?utm_campaign=761970&utm_source=habrahabr&utm_medium=rss)
 - [Google: Chromebook будут получать автоматические обновления в течение 10 лет](https://habr.com/ru/news/761184/?utm_campaign=761184&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft обновила дизайн лаунчера PowerToys Run с учётом особенностей Fluent UI](https://habr.com/ru/news/761172/?utm_campaign=761172&utm_source=habrahabr&utm_medium=rss)
-- [Action Button в iPhone 15 Pro на выбор предоставляет доступ к девяти опциям](https://habr.com/ru/news/761100/?utm_campaign=761100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
