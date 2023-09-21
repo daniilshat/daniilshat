@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики YouTube выпустили видеоредактор для создателей мобильного контента](https://habr.com/ru/news/762686/?utm_campaign=762686&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: 95% существующих NFT сейчас практически ничего не стоят](https://habr.com/ru/news/762672/?utm_campaign=762672&utm_source=habrahabr&utm_medium=rss)
 - [Warface переносит русскоязычные сервера из Steam и Epic Games в VK Play](https://habr.com/ru/news/762650/?utm_campaign=762650&utm_source=habrahabr&utm_medium=rss)
 - [Приложение для стриминга Camo Studio теперь доступно на iPad](https://habr.com/ru/news/762562/?utm_campaign=762562&utm_source=habrahabr&utm_medium=rss)
 - [iPhone 15 показывает количество циклов перезарядки аккумулятора и дату его активации](https://habr.com/ru/news/762424/?utm_campaign=762424&utm_source=habrahabr&utm_medium=rss)
-- [Игровое подразделение Logitech выпустило USB-микрофон Yeti GX](https://habr.com/ru/news/762382/?utm_campaign=762382&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
