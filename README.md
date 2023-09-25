@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [При высокой нагрузке корпус iPhone 15 Pro нагревается до температуры 48 °C](https://habr.com/ru/news/763418/?utm_campaign=763418&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик приложения infiniteX2P подключил iPhone 15 Pro к монитору](https://habr.com/ru/news/763400/?utm_campaign=763400&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: истории от каналов и медиафайлы с однократным просмотром](https://habr.com/ru/news/762886/?utm_campaign=762886&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили плагин Voices, позволяющий оставлять голосовые комментарии в коде](https://habr.com/ru/news/762758/?utm_campaign=762758&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики YouTube выпустили видеоредактор для создателей мобильного контента](https://habr.com/ru/news/762686/?utm_campaign=762686&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: 95% существующих NFT сейчас практически ничего не стоят](https://habr.com/ru/news/762672/?utm_campaign=762672&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
