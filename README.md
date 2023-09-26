@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила macOS 14 Sonoma](https://habr.com/ru/news/763654/?utm_campaign=763654&utm_source=habrahabr&utm_medium=rss)
 - [DJI представила дрон Mini 4 Pro с функцией автоматического прохождения маршрута](https://habr.com/ru/news/763550/?utm_campaign=763550&utm_source=habrahabr&utm_medium=rss)
 - [При высокой нагрузке корпус iPhone 15 Pro нагревается до температуры 48 °C](https://habr.com/ru/news/763418/?utm_campaign=763418&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик приложения infiniteX2P подключил iPhone 15 Pro к монитору](https://habr.com/ru/news/763400/?utm_campaign=763400&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: истории от каналов и медиафайлы с однократным просмотром](https://habr.com/ru/news/762886/?utm_campaign=762886&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили плагин Voices, позволяющий оставлять голосовые комментарии в коде](https://habr.com/ru/news/762758/?utm_campaign=762758&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
