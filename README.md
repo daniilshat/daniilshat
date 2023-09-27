@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [«Веб-сервер» выпустила визуальную консоль мониторинга для Angie](https://habr.com/ru/news/763868/?utm_campaign=763868&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains обновила UI своих инструментов и опубликовала UI Kit для Figma](https://habr.com/ru/news/763788/?utm_campaign=763788&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили утилиту Containers, позволяющую запускать контейнеры macOS в самой macOS](https://habr.com/ru/news/763746/?utm_campaign=763746&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс 360» появятся видеовстречи на 1000 участников и демонстрация экрана в 4К](https://habr.com/ru/news/763660/?utm_campaign=763660&utm_source=habrahabr&utm_medium=rss)
 - [Google закроет свой сервис для подкастов и переведёт пользователей на YouTube Music](https://habr.com/ru/news/763666/?utm_campaign=763666&utm_source=habrahabr&utm_medium=rss)
-- [Пользователи OpenCore Legacy Patcher получат macOS Sonoma в начале октября](https://habr.com/ru/news/763664/?utm_campaign=763664&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
