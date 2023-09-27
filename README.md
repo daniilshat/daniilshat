@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили утилиту Containers, позволяющую запускать контейнеры macOS в самой macOS](https://habr.com/ru/news/763746/?utm_campaign=763746&utm_source=habrahabr&utm_medium=rss)
+- [В «Яндекс 360» появятся видеовстречи на 1000 участников и демонстрация экрана в 4К](https://habr.com/ru/news/763660/?utm_campaign=763660&utm_source=habrahabr&utm_medium=rss)
 - [Google закроет свой сервис для подкастов и переведёт пользователей на YouTube Music](https://habr.com/ru/news/763666/?utm_campaign=763666&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи OpenCore Legacy Patcher получат macOS Sonoma в начале октября](https://habr.com/ru/news/763664/?utm_campaign=763664&utm_source=habrahabr&utm_medium=rss)
 - [Minecraft Wiki переехала из Fandom на minecraft.wiki](https://habr.com/ru/news/763662/?utm_campaign=763662&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила macOS 14 Sonoma](https://habr.com/ru/news/763654/?utm_campaign=763654&utm_source=habrahabr&utm_medium=rss)
-- [DJI представила дрон Mini 4 Pro с функцией автоматического прохождения маршрута](https://habr.com/ru/news/763550/?utm_campaign=763550&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
