@@ -60,7 +60,7 @@ No activity tracked
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Российские киберспортсмены не могут получить денежный приз за победу в чемпионате по Fortnite](https://habr.com/ru/news/763928/?utm_campaign=763928&utm_source=habrahabr&utm_medium=rss)
-- [Apple рассказала как воспользоваться игровым режимом в macOS Sonoma](https://habr.com/ru/news/763908/?utm_campaign=763908&utm_source=habrahabr&utm_medium=rss)
+- [Apple рассказала, как воспользоваться игровым режимом в macOS Sonoma](https://habr.com/ru/news/763908/?utm_campaign=763908&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» выпустила визуальную консоль мониторинга для Angie](https://habr.com/ru/news/763868/?utm_campaign=763868&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains обновила UI своих инструментов и опубликовала UI Kit для Figma](https://habr.com/ru/news/763788/?utm_campaign=763788&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили утилиту Containers, позволяющую запускать контейнеры macOS в самой macOS](https://habr.com/ru/news/763746/?utm_campaign=763746&utm_source=habrahabr&utm_medium=rss)
