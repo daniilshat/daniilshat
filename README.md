@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Старые модели Mac могут получить macOS Sonoma благодаря релизу OpenCore Legacy Patcher](https://habr.com/ru/news/764934/?utm_campaign=764934&utm_source=habrahabr&utm_medium=rss)
 - [Обновление браузера Arc: режим энергосбережения, улучшенный интерфейс и заметки](https://habr.com/ru/news/764270/?utm_campaign=764270&utm_source=habrahabr&utm_medium=rss)
 - [Mistral AI выпустила открытую языковую модель, которой можно пользоваться бесплатно через API и локально](https://habr.com/ru/news/764242/?utm_campaign=764242&utm_source=habrahabr&utm_medium=rss)
 - [Утилита NearDrop теперь поддерживает передачу файлов с macOS на Android](https://habr.com/ru/news/764186/?utm_campaign=764186&utm_source=habrahabr&utm_medium=rss)
 - [VR-гарнитура Meta* Quest 3 поступит в продажу 10 октября по цене от $500](https://habr.com/ru/news/764140/?utm_campaign=764140&utm_source=habrahabr&utm_medium=rss)
-- [Российские киберспортсмены не могут получить денежный приз за победу в чемпионате по Fortnite](https://habr.com/ru/news/763928/?utm_campaign=763928&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
