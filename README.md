@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple запатентовала модульный MacBook и микродинамик для одежды в стиле коммуникатора из «Звёздного пути»](https://habr.com/ru/news/765786/?utm_campaign=765786&utm_source=habrahabr&utm_medium=rss)
 - [Notebook Nerds выпустила nerd.tool.1 — инструмент для самостоятельной калибровки датчика закрытого дисплея MacBook](https://habr.com/ru/news/765776/?utm_campaign=765776&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила Swift Splash — готовое приложение для знакомства с основами разработки под Vision Pro](https://habr.com/ru/news/765758/?utm_campaign=765758&utm_source=habrahabr&utm_medium=rss)
 - [Приложения для Vision Pro можно разрабатывать только на компьютерах с Apple Silicon](https://habr.com/ru/news/765752/?utm_campaign=765752&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики браузера Arc представили Max — набор ИИ-функций](https://habr.com/ru/news/765312/?utm_campaign=765312&utm_source=habrahabr&utm_medium=rss)
-- [«Веб-сервер» анонсировала обновление Angie Pro 1.3.0](https://habr.com/ru/news/765166/?utm_campaign=765166&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
