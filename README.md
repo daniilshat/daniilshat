@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft: ИИ-ассистент Windows Copilot доступен только в США, Великобритании и некоторых странах Азии и Южной Америки](https://habr.com/ru/news/766340/?utm_campaign=766340&utm_source=habrahabr&utm_medium=rss)
 - [Пользователи жалуются, что дисплей iPhone 15 Pro выгорает спустя несколько недель после покупки смартфона](https://habr.com/ru/news/766192/?utm_campaign=766192&utm_source=habrahabr&utm_medium=rss)
 - [«Тинькофф-банк» запросил у клиентов согласие на обработку их фотографий, сделанных при оформлении продуктов](https://habr.com/ru/news/766140/?utm_campaign=766140&utm_source=habrahabr&utm_medium=rss)
 - [В GitHub добавили интеграцию c Patreon](https://habr.com/ru/news/766130/?utm_campaign=766130&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains и Python Software Foundation рассказали, как разработчики использовали Python в 2022 году](https://habr.com/ru/news/766124/?utm_campaign=766124&utm_source=habrahabr&utm_medium=rss)
-- [Apple запатентовала модульный MacBook и микродинамик для одежды в стиле коммуникатора из «Звёздного пути»](https://habr.com/ru/news/765786/?utm_campaign=765786&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
