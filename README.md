@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [«Тинькофф-банк» запросил у клиентов согласие на обработку их фотографий, сделанных при оформлении продуктов](https://habr.com/ru/news/766140/?utm_campaign=766140&utm_source=habrahabr&utm_medium=rss)
+- [В GitHub добавили интеграцию c Patreon](https://habr.com/ru/news/766130/?utm_campaign=766130&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains и Python Software Foundation рассказали, как разработчики использовали Python в 2022 году](https://habr.com/ru/news/766124/?utm_campaign=766124&utm_source=habrahabr&utm_medium=rss)
 - [Apple запатентовала модульный MacBook и микродинамик для одежды в стиле коммуникатора из «Звёздного пути»](https://habr.com/ru/news/765786/?utm_campaign=765786&utm_source=habrahabr&utm_medium=rss)
 - [Notebook Nerds выпустила nerd.tool.1 — инструмент для самостоятельной калибровки датчика закрытого дисплея MacBook](https://habr.com/ru/news/765776/?utm_campaign=765776&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила Swift Splash — готовое приложение для знакомства с основами разработки под Vision Pro](https://habr.com/ru/news/765758/?utm_campaign=765758&utm_source=habrahabr&utm_medium=rss)
-- [Приложения для Vision Pro можно разрабатывать только на компьютерах с Apple Silicon](https://habr.com/ru/news/765752/?utm_campaign=765752&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
