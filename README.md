@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Проект Fedora и компания Slimbook выпустили ультрабук](https://habr.com/ru/news/766874/?utm_campaign=766874&utm_source=habrahabr&utm_medium=rss)
+- [Qualcomm анонсировала серию ARM-процессоров Snapdragon X для ПК, которые могут составить конкуренцию Apple Silicon](https://habr.com/ru/news/766864/?utm_campaign=766864&utm_source=habrahabr&utm_medium=rss)
 - [AMD купила ИИ-стартап Nod.AI](https://habr.com/ru/news/766858/?utm_campaign=766858&utm_source=habrahabr&utm_medium=rss)
 - [Google рассказала о самой мощной DDoS-атаке в истории компании — 398 млн запросов в секунду](https://habr.com/ru/news/766600/?utm_campaign=766600&utm_source=habrahabr&utm_medium=rss)
 - [Sony представила PlayStation 5 Slim, продажи начнутся в ноябре](https://habr.com/ru/news/766592/?utm_campaign=766592&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустила NaviKit — SDK для разработки навигационных мобильных приложений](https://habr.com/ru/news/766528/?utm_campaign=766528&utm_source=habrahabr&utm_medium=rss)
-- [В iOS 17 появилась функция для воспроизведения звука на потерянных Apple Watch](https://habr.com/ru/news/766388/?utm_campaign=766388&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
