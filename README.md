@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft завершила поддержку Windows 11 версии 21H2](https://habr.com/ru/news/767132/?utm_campaign=767132&utm_source=habrahabr&utm_medium=rss)
+- [Adobe представила логотип для маркировки контента, созданного или отредактированного с помощью ИИ](https://habr.com/ru/news/767128/?utm_campaign=767128&utm_source=habrahabr&utm_medium=rss)
 - [Китайская компания Onexplayer представила компактный ноутбук-трансформер One-Netbook 5](https://habr.com/ru/news/767122/?utm_campaign=767122&utm_source=habrahabr&utm_medium=rss)
 - [Проект Fedora и компания Slimbook выпустили ультрабук](https://habr.com/ru/news/766874/?utm_campaign=766874&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm анонсировала серию ARM-процессоров Snapdragon X для ПК, которые могут составить конкуренцию Apple Silicon](https://habr.com/ru/news/766864/?utm_campaign=766864&utm_source=habrahabr&utm_medium=rss)
-- [AMD купила ИИ-стартап Nod.AI](https://habr.com/ru/news/766858/?utm_campaign=766858&utm_source=habrahabr&utm_medium=rss)
-- [Google рассказала о самой мощной DDoS-атаке в истории компании — 398 млн запросов в секунду](https://habr.com/ru/news/766600/?utm_campaign=766600&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
