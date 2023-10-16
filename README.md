@@ -61,9 +61,9 @@ Markdown   0 secs          █░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Xsolla купила сервис для стримов Lightstream](https://habr.com/ru/news/767860/?utm_campaign=767860&utm_source=habrahabr&utm_medium=rss)
 - [Анонсировали браузер Braid с функциями совместного доступа](https://habr.com/ru/news/767786/?utm_campaign=767786&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Gluestack UI — библиотеки UI-компонентов для React, Expo, Next.js и React Native](https://habr.com/ru/news/767742/?utm_campaign=767742&utm_source=habrahabr&utm_medium=rss)
 - [Atlassian покупает Loom — софт для записи скринкастов](https://habr.com/ru/news/767540/?utm_campaign=767540&utm_source=habrahabr&utm_medium=rss)
 - [IGN: PlayStation 5 Slim поддерживает установку дополнительного SSD М.2 до 8 ТБ](https://habr.com/ru/news/767348/?utm_campaign=767348&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft завершила поддержку Windows 11 версии 21H2](https://habr.com/ru/news/767132/?utm_campaign=767132&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
