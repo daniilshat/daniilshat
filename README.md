@@ -61,9 +61,9 @@ Markdown   0 secs          █░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Анонсировали Analogue 3D — консоль для запуска игр Nintendo 64 в 4K](https://habr.com/ru/news/767868/?utm_campaign=767868&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление фреймворка Electron 27.0.0](https://habr.com/ru/news/767866/?utm_campaign=767866&utm_source=habrahabr&utm_medium=rss)
 - [Xsolla купила сервис для стримов Lightstream](https://habr.com/ru/news/767860/?utm_campaign=767860&utm_source=habrahabr&utm_medium=rss)
 - [Анонсировали браузер Braid с функциями совместного доступа](https://habr.com/ru/news/767786/?utm_campaign=767786&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Gluestack UI — библиотеки UI-компонентов для React, Expo, Next.js и React Native](https://habr.com/ru/news/767742/?utm_campaign=767742&utm_source=habrahabr&utm_medium=rss)
-- [Atlassian покупает Loom — софт для записи скринкастов](https://habr.com/ru/news/767540/?utm_campaign=767540&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
