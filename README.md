@@ -61,9 +61,9 @@ Markdown   0 secs          ▓░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В ближайшие два года Apple обновит 24-дюймовый iMac и выпустит новый 32-дюймовый](https://habr.com/ru/news/768158/?utm_campaign=768158&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст модернизировал винтажный проигрыватель Panasonic Stereo 8 с помощью Raspberry Pi Pico](https://habr.com/ru/news/768142/?utm_campaign=768142&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила бюджетное перо Apple Pencil с USB-C](https://habr.com/ru/news/768084/?utm_campaign=768084&utm_source=habrahabr&utm_medium=rss)
 - [Объявили список победителей конкурса js13kGames 2023](https://habr.com/ru/news/768078/?utm_campaign=768078&utm_source=habrahabr&utm_medium=rss)
 - [Анонсировали Analogue 3D — консоль для запуска игр Nintendo 64 в 4K](https://habr.com/ru/news/767868/?utm_campaign=767868&utm_source=habrahabr&utm_medium=rss)
-- [Вышло обновление фреймворка Electron 27.0.0](https://habr.com/ru/news/767866/?utm_campaign=767866&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
