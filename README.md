@@ -61,9 +61,9 @@ Markdown   0 secs          ▓░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Chrome на iOS и Android будет искать возможные опечатки в URL-адресах и предлагать исправления](https://habr.com/ru/news/768352/?utm_campaign=768352&utm_source=habrahabr&utm_medium=rss)
 - [В Сети опубликовали скриншоты интерфейса Xiaomi HyperOS](https://habr.com/ru/news/768258/?utm_campaign=768258&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представила YandexART — нейросеть для генерации изображений и анимаций](https://habr.com/ru/news/768098/?utm_campaign=768098&utm_source=habrahabr&utm_medium=rss)
 - [В ближайшие два года Apple обновит 24-дюймовый iMac и выпустит новый 32-дюймовый](https://habr.com/ru/news/768158/?utm_campaign=768158&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст модернизировал винтажный проигрыватель Panasonic Stereo 8 с помощью Raspberry Pi Pico](https://habr.com/ru/news/768142/?utm_campaign=768142&utm_source=habrahabr&utm_medium=rss)
-- [Apple представила бюджетное перо Apple Pencil с USB-C](https://habr.com/ru/news/768084/?utm_campaign=768084&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
