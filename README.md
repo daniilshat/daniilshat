@@ -61,9 +61,9 @@ Markdown   0 secs          ▓░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Язык программирования Mojo теперь доступен на macOS](https://habr.com/ru/news/768682/?utm_campaign=768682&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 появилась возможность делиться паролями Wi-Fi с помощью QR-кодов](https://habr.com/ru/news/768668/?utm_campaign=768668&utm_source=habrahabr&utm_medium=rss)
 - [В Японии тестируют беспроводную зарядку электромобилей на светофорах](https://habr.com/ru/news/768642/?utm_campaign=768642&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик представил Localpilot — утилиту для локального использования аналогов GitHub Copilot на macOS](https://habr.com/ru/news/768624/?utm_campaign=768624&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft тестирует поддержку слуховых аппаратов в Windows 11](https://habr.com/ru/news/768516/?utm_campaign=768516&utm_source=habrahabr&utm_medium=rss)
-- [Honda начала тестирование электрического тягача с автопилотом в аэропорту Торонто](https://habr.com/ru/news/768488/?utm_campaign=768488&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
