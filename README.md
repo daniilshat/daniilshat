@@ -61,9 +61,9 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Node.js 21](https://habr.com/ru/news/769120/?utm_campaign=769120&utm_source=habrahabr&utm_medium=rss)
 - [Google работает над режимом обслуживания, обеспечивающим безопасность персональных данных во время ремонта](https://habr.com/ru/news/768902/?utm_campaign=768902&utm_source=habrahabr&utm_medium=rss)
 - [Universal Music подала в суд на Anthropic, утверждая, что компания незаконно использовала тексты песен для обучения ИИ](https://habr.com/ru/news/768760/?utm_campaign=768760&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Mojo теперь доступен на macOS](https://habr.com/ru/news/768682/?utm_campaign=768682&utm_source=habrahabr&utm_medium=rss)
 - [В тестовой сборке Windows 11 появилась возможность делиться паролями Wi-Fi с помощью QR-кодов](https://habr.com/ru/news/768668/?utm_campaign=768668&utm_source=habrahabr&utm_medium=rss)
-- [В Японии тестируют беспроводную зарядку электромобилей на светофорах](https://habr.com/ru/news/768642/?utm_campaign=768642&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
