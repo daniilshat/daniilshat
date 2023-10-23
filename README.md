@@ -59,9 +59,9 @@ Python   3 hrs 27 mins   ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил карту для Apple Watch, стилизованную под радар из GTA: Vice City](https://habr.com/ru/news/769318/?utm_campaign=769318&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi 5 поступили в продажу](https://habr.com/ru/news/769252/?utm_campaign=769252&utm_source=habrahabr&utm_medium=rss)
 - [Obsidian Importer получил поддержку формата Apple Notes](https://habr.com/ru/news/769236/?utm_campaign=769236&utm_source=habrahabr&utm_medium=rss)
 - [Разбор iPhone 15 Pro Max показал, что его детали на 12% дороже, чем у прошлогодней модели](https://habr.com/ru/news/769224/?utm_campaign=769224&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Eureka — ИИ-агента для обучения роботов выполнению сложных физических действий](https://habr.com/ru/news/769166/?utm_campaign=769166&utm_source=habrahabr&utm_medium=rss)
-- [СМИ: долгое время Brave устанавливал свой VPN-клиент без возможности отказаться от этого, компания обещает всё исправить](https://habr.com/ru/news/769156/?utm_campaign=769156&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
