@@ -59,9 +59,9 @@ Python   3 hrs 26 mins   ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple анонсировала презентацию Scary Fast, которая состоится 31 октября](https://habr.com/ru/news/769672/?utm_campaign=769672&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Chrome и Firefox планируют прекратить поддержку видеокодека Theora из-за проблем с безопасностью проекта](https://habr.com/ru/news/769574/?utm_campaign=769574&utm_source=habrahabr&utm_medium=rss)
 - [Apple планирует потратить более $5 млрд на покупку серверов для работы искусственного интеллекта](https://habr.com/ru/news/769560/?utm_campaign=769560&utm_source=habrahabr&utm_medium=rss)
 - [Разработку плагина Pest для тестирования кода на PHP теперь ведёт JetBrains](https://habr.com/ru/news/769456/?utm_campaign=769456&utm_source=habrahabr&utm_medium=rss)
 - [Spotify назвала продукты с открытым кодом, которые в этом году получат поддержку из фонда FOSS](https://habr.com/ru/news/769446/?utm_campaign=769446&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз IoT-протокола Matter 1.2 с поддержкой новых устройств](https://habr.com/ru/news/769402/?utm_campaign=769402&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
