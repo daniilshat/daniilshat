@@ -59,9 +59,9 @@ Python   3 hrs 26 mins   ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработку плагина Pest для тестирования кода на PHP теперь ведёт JetBrains](https://habr.com/ru/news/769456/?utm_campaign=769456&utm_source=habrahabr&utm_medium=rss)
+- [Spotify назвала продукты с открытым кодом, которые в этом году получат поддержку из фонда FOSS](https://habr.com/ru/news/769446/?utm_campaign=769446&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз IoT-протокола Matter 1.2 с поддержкой новых устройств](https://habr.com/ru/news/769402/?utm_campaign=769402&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил карту для Apple Watch, стилизованную под радар из GTA: Vice City](https://habr.com/ru/news/769318/?utm_campaign=769318&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi 5 поступили в продажу](https://habr.com/ru/news/769252/?utm_campaign=769252&utm_source=habrahabr&utm_medium=rss)
-- [Obsidian Importer получил поддержку формата Apple Notes](https://habr.com/ru/news/769236/?utm_campaign=769236&utm_source=habrahabr&utm_medium=rss)
-- [Разбор iPhone 15 Pro Max показал, что его детали на 12% дороже, чем у прошлогодней модели](https://habr.com/ru/news/769224/?utm_campaign=769224&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
