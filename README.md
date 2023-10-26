@@ -59,9 +59,9 @@ Python   3 hrs 26 mins   ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В «Яндекс Картах» появились высокодетализированные карты для водителей](https://habr.com/ru/news/769946/?utm_campaign=769946&utm_source=habrahabr&utm_medium=rss)
+- [Arduino представила плату для подключения модулей Raspberry Pi к Portena](https://habr.com/ru/news/770026/?utm_campaign=770026&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики «Смуты» ответили на частые вопросы пользователей](https://habr.com/ru/news/769964/?utm_campaign=769964&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила iOS 17.1, macOS 14.1 и watchOS 10.1](https://habr.com/ru/news/769956/?utm_campaign=769956&utm_source=habrahabr&utm_medium=rss)
 - [Google разрабатывает для ChromeOS функцию управления курсором при помощи взгляда и мимики](https://habr.com/ru/news/769804/?utm_campaign=769804&utm_source=habrahabr&utm_medium=rss)
-- [Apple анонсировала презентацию Scary Fast, которая состоится 31 октября](https://habr.com/ru/news/769672/?utm_campaign=769672&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Chrome и Firefox планируют прекратить поддержку видеокодека Theora из-за проблем с безопасностью проекта](https://habr.com/ru/news/769574/?utm_campaign=769574&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
