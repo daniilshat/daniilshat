@@ -59,9 +59,9 @@ Python   3 hrs 26 mins   ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Arc появилась возможность делиться рабочими пространствами с пользователями любых браузеров](https://habr.com/ru/news/770232/?utm_campaign=770232&utm_source=habrahabr&utm_medium=rss)
+- [В iOS и macOS обнаружили уязвимость, позволяющую красть пароли из Safari](https://habr.com/ru/news/770228/?utm_campaign=770228&utm_source=habrahabr&utm_medium=rss)
 - [GigaChat API открыли для некоммерческих проектов](https://habr.com/ru/news/770134/?utm_campaign=770134&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Картах» появились высокодетализированные карты для водителей](https://habr.com/ru/news/769946/?utm_campaign=769946&utm_source=habrahabr&utm_medium=rss)
 - [Arduino представила плату для подключения модулей Raspberry Pi к Portena](https://habr.com/ru/news/770026/?utm_campaign=770026&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики «Смуты» ответили на частые вопросы пользователей](https://habr.com/ru/news/769964/?utm_campaign=769964&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила iOS 17.1, macOS 14.1 и watchOS 10.1](https://habr.com/ru/news/769956/?utm_campaign=769956&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
