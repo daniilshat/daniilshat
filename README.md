@@ -60,9 +60,9 @@ Python     4 mins          █▒░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [LAION запустила проект Open Empathic для разработки открытой ИИ-модели для распознавания эмоций человека](https://habr.com/ru/news/770754/?utm_campaign=770754&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик запустил ядро Linux в эмуляторе на Scratch](https://habr.com/ru/news/770618/?utm_campaign=770618&utm_source=habrahabr&utm_medium=rss)
 - [Команда Spotify Engineering представила Voyager — библиотеку для поиска ближайших соседей](https://habr.com/ru/news/770308/?utm_campaign=770308&utm_source=habrahabr&utm_medium=rss)
 - [В Arc появилась возможность делиться рабочими пространствами с пользователями любых браузеров](https://habr.com/ru/news/770232/?utm_campaign=770232&utm_source=habrahabr&utm_medium=rss)
 - [В iOS и macOS обнаружили уязвимость, позволяющую красть пароли из Safari](https://habr.com/ru/news/770228/?utm_campaign=770228&utm_source=habrahabr&utm_medium=rss)
-- [GigaChat API открыли для некоммерческих проектов](https://habr.com/ru/news/770134/?utm_campaign=770134&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
