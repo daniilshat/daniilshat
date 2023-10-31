@@ -60,9 +60,9 @@ Python     4 mins          █▒░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple обновила 24-дюймовый iMac, теперь моноблок работает на M3](https://habr.com/ru/news/770894/?utm_campaign=770894&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила MacBook Pro на чипах серии M3 и в новом цвете](https://habr.com/ru/news/770892/?utm_campaign=770892&utm_source=habrahabr&utm_medium=rss)
 - [Apple представила чипы M3, M3 Pro и M3 Max](https://habr.com/ru/news/770890/?utm_campaign=770890&utm_source=habrahabr&utm_medium=rss)
 - [Telegram подвёл итоги конкурса иконок приложения среди дизайнеров](https://habr.com/ru/news/770868/?utm_campaign=770868&utm_source=habrahabr&utm_medium=rss)
 - [В iOS 17.1 появилась возможность устанавливать IPA-файлы, полученные по AirDrop](https://habr.com/ru/news/770858/?utm_campaign=770858&utm_source=habrahabr&utm_medium=rss)
-- [LAION запустила проект Open Empathic для разработки открытой ИИ-модели для распознавания эмоций человека](https://habr.com/ru/news/770754/?utm_campaign=770754&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
