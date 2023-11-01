@@ -60,9 +60,9 @@ Python     4 mins          █▒░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Памятную награду за 20 лет работы в Apple продали на аукционе за 5 тыс. долларов](https://habr.com/ru/news/771176/?utm_campaign=771176&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar прекратит поддержку своего лаунчера в Windows 7 и 8](https://habr.com/ru/news/771172/?utm_campaign=771172&utm_source=habrahabr&utm_medium=rss)
 - [Институт Фраунгофера протестировал evoBOT — балансирующего складского робота](https://habr.com/ru/news/771072/?utm_campaign=771072&utm_source=habrahabr&utm_medium=rss)
 - [Apple сняла с продажи MacBook с Touch Bar](https://habr.com/ru/news/771050/?utm_campaign=771050&utm_source=habrahabr&utm_medium=rss)
 - [Приложение «Яндекс Музыка» теперь доступно для незрячих](https://habr.com/ru/news/771038/?utm_campaign=771038&utm_source=habrahabr&utm_medium=rss)
-- [Apple обновила 24-дюймовый iMac, теперь моноблок работает на M3](https://habr.com/ru/news/770894/?utm_campaign=770894&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
