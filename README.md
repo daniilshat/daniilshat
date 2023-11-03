@@ -59,9 +59,9 @@ Python   4 mins          ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Автор книги You Don’t Know JS Yet рассказал, что его не взяли на работу из-за недостаточных технических навыков](https://habr.com/ru/news/771822/?utm_campaign=771822&utm_source=habrahabr&utm_medium=rss)
 - [В браузере Brave появился «анонимный и безопасный» чат-бот с ИИ](https://habr.com/ru/news/771706/?utm_campaign=771706&utm_source=habrahabr&utm_medium=rss)
 - [Блогер заказал четыре iPhone 15 Pro Max, но Apple по ошибке прислала ему партию из 60 штук](https://habr.com/ru/news/771404/?utm_campaign=771404&utm_source=habrahabr&utm_medium=rss)
 - [Apple сняла всю презентацию Scary Fast на iPhone и поделилась деталями процесса](https://habr.com/ru/news/771186/?utm_campaign=771186&utm_source=habrahabr&utm_medium=rss)
 - [Памятную награду за 20 лет работы в Apple продали на аукционе за 5 тыс. долларов](https://habr.com/ru/news/771176/?utm_campaign=771176&utm_source=habrahabr&utm_medium=rss)
-- [Rockstar прекратит поддержку своего лаунчера в Windows 7 и 8](https://habr.com/ru/news/771172/?utm_campaign=771172&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
