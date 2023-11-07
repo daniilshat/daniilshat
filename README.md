@@ -59,9 +59,9 @@ Other   6 mins          ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple на неделю приостановила разработку обновлений ОС и сосредоточилась на исправлении известных ошибок](https://habr.com/ru/news/772432/?utm_campaign=772432&utm_source=habrahabr&utm_medium=rss)
+- [Владельцы новых Mac на M3 жалуются, что не могут обновить стоковую macOS Ventura до актуальной Sonoma](https://habr.com/ru/news/772428/?utm_campaign=772428&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила GPTs — функцию для создания кастомных чат-ботов](https://habr.com/ru/news/772318/?utm_campaign=772318&utm_source=habrahabr&utm_medium=rss)
 - [Fiido представила электровелосипед Titan с запасом хода до 400 км и грузоподъёмностью до 200 кг](https://habr.com/ru/news/772158/?utm_campaign=772158&utm_source=habrahabr&utm_medium=rss)
 - [Автор книги You Don’t Know JS Yet рассказал, что его не взяли на работу из-за недостаточных технических навыков](https://habr.com/ru/news/771822/?utm_campaign=771822&utm_source=habrahabr&utm_medium=rss)
-- [В браузере Brave появился «анонимный и безопасный» чат-бот с ИИ](https://habr.com/ru/news/771706/?utm_campaign=771706&utm_source=habrahabr&utm_medium=rss)
-- [Блогер заказал четыре iPhone 15 Pro Max, но Apple по ошибке прислала ему партию из 60 штук](https://habr.com/ru/news/771404/?utm_campaign=771404&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
