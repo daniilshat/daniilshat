@@ -59,9 +59,9 @@ Other   6 mins          ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft уволила 124 сотрудника IT-отдела и студии спецэффектов Hybride](https://habr.com/ru/news/772472/?utm_campaign=772472&utm_source=habrahabr&utm_medium=rss)
 - [Epic Games Store спустя пять лет после запуска работает в убыток](https://habr.com/ru/news/772438/?utm_campaign=772438&utm_source=habrahabr&utm_medium=rss)
 - [Apple на неделю приостановила разработку обновлений ОС и сосредоточилась на исправлении известных ошибок](https://habr.com/ru/news/772432/?utm_campaign=772432&utm_source=habrahabr&utm_medium=rss)
 - [Владельцы новых Mac на M3 жалуются, что не могут обновить стоковую macOS Ventura до актуальной Sonoma](https://habr.com/ru/news/772428/?utm_campaign=772428&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI представила GPTs — функцию для создания кастомных чат-ботов](https://habr.com/ru/news/772318/?utm_campaign=772318&utm_source=habrahabr&utm_medium=rss)
-- [Fiido представила электровелосипед Titan с запасом хода до 400 км и грузоподъёмностью до 200 кг](https://habr.com/ru/news/772158/?utm_campaign=772158&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
