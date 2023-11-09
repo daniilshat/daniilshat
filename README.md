@@ -59,9 +59,9 @@ Other   6 mins          ██████████████████�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Сети опубликовали видео распаковки PlayStation Portal и её сравнение со Steam Deck](https://habr.com/ru/news/773002/?utm_campaign=773002&utm_source=habrahabr&utm_medium=rss)
 - [В Южной Корее робот убил обслуживающего инженера, приняв его за коробку](https://habr.com/ru/news/772912/?utm_campaign=772912&utm_source=habrahabr&utm_medium=rss)
 - [Figma представила набор ИИ-функций для сервиса онлайн-досок FigJam](https://habr.com/ru/news/772712/?utm_campaign=772712&utm_source=habrahabr&utm_medium=rss)
 - [Apple: 8 ГБ ОЗУ на MacBook Pro M3 «эквивалентно 16 ГБ» на ПК благодаря унифицированной архитектуре памяти](https://habr.com/ru/news/772688/?utm_campaign=772688&utm_source=habrahabr&utm_medium=rss)
 - [Инструменты Kotlin Multiplatform теперь доступны в JetBrains Fleet](https://habr.com/ru/news/772668/?utm_campaign=772668&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик представил Clipea — аналог Скрепыша из Windows для командной строки](https://habr.com/ru/news/772584/?utm_campaign=772584&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
