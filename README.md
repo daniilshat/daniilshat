@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Итоги премии GitHub Awards 2023](https://habr.com/ru/news/773512/?utm_campaign=773512&utm_source=habrahabr&utm_medium=rss)
 - [GitHub опубликовал Octoverse — ежегодное исследование платформы и сообщества проектов с открытым кодом](https://habr.com/ru/news/773188/?utm_campaign=773188&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдеры: Siri на базе искусственного интеллекта представят во время WWDC 24](https://habr.com/ru/news/773006/?utm_campaign=773006&utm_source=habrahabr&utm_medium=rss)
 - [В Сети опубликовали видео распаковки PlayStation Portal и её сравнение со Steam Deck](https://habr.com/ru/news/773002/?utm_campaign=773002&utm_source=habrahabr&utm_medium=rss)
 - [В Южной Корее робот убил обслуживающего инженера, приняв его за коробку](https://habr.com/ru/news/772912/?utm_campaign=772912&utm_source=habrahabr&utm_medium=rss)
-- [Figma представила набор ИИ-функций для сервиса онлайн-досок FigJam](https://habr.com/ru/news/772712/?utm_campaign=772712&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
