@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров показал концепт Telegram для Apple Vision Pro](https://habr.com/ru/news/773934/?utm_campaign=773934&utm_source=habrahabr&utm_medium=rss)
 - [Блогер вернул партию из 60 iPhone 15 Pro Max, высланную ему по ошибке](https://habr.com/ru/news/773908/?utm_campaign=773908&utm_source=habrahabr&utm_medium=rss)
 - [В Сети появились первые обзоры Sony PlayStation Portal](https://habr.com/ru/news/773818/?utm_campaign=773818&utm_source=habrahabr&utm_medium=rss)
 - [Arduino выпустила библиотеки для работы с файлами и внешней памятью](https://habr.com/ru/news/773688/?utm_campaign=773688&utm_source=habrahabr&utm_medium=rss)
 - [Google столкнулась с мошенниками, которые распространяют вредоносное ПО под видом «неопубликованной» версии Bard](https://habr.com/ru/news/773606/?utm_campaign=773606&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains выпустила CLion Nova — IDE для C/C++ на движке ReSharper/Rider](https://habr.com/ru/news/773590/?utm_campaign=773590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
