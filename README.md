@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple назвала финалистов премии App Store Award 2023](https://habr.com/ru/news/774000/?utm_campaign=774000&utm_source=habrahabr&utm_medium=rss)
 - [Nothing анонсировала собственный мессенджер, совместимый с iMessage](https://habr.com/ru/news/773966/?utm_campaign=773966&utm_source=habrahabr&utm_medium=rss)
 - [Uber внедрила защиту от клиентов, которые ставят низкие оценки водителям для получения компенсации](https://habr.com/ru/news/773936/?utm_campaign=773936&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров показал концепт Telegram для Apple Vision Pro](https://habr.com/ru/news/773934/?utm_campaign=773934&utm_source=habrahabr&utm_medium=rss)
 - [Блогер вернул партию из 60 iPhone 15 Pro Max, высланную ему по ошибке](https://habr.com/ru/news/773908/?utm_campaign=773908&utm_source=habrahabr&utm_medium=rss)
-- [В Сети появились первые обзоры Sony PlayStation Portal](https://habr.com/ru/news/773818/?utm_campaign=773818&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
