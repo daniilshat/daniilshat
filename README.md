@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [«Сбер» выпустил SaluteSpeech App — приложение для распознавания и озвучивания текста](https://habr.com/ru/news/774388/?utm_campaign=774388&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики ОС «Аврора» запустили образовательный портал для школьников и студентов](https://habr.com/ru/news/774374/?utm_campaign=774374&utm_source=habrahabr&utm_medium=rss)
 - [Обновление «Яндекс Карт»: теперь сервис показывает больше информации о городе](https://habr.com/ru/news/774362/?utm_campaign=774362&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил «Станцию Дуо Макс» — умную колонку с экраном](https://habr.com/ru/news/774296/?utm_campaign=774296&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft официально запускает Loop — конкурента Notion](https://habr.com/ru/news/774188/?utm_campaign=774188&utm_source=habrahabr&utm_medium=rss)
-- [Amazon запустила продажи роботов Astro для бизнеса](https://habr.com/ru/news/774182/?utm_campaign=774182&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
