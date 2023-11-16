@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» представил «Станцию Дуо Макс» — умную колонку с экраном](https://habr.com/ru/news/774296/?utm_campaign=774296&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft официально запускает Loop — конкурента Notion](https://habr.com/ru/news/774188/?utm_campaign=774188&utm_source=habrahabr&utm_medium=rss)
 - [Amazon запустила продажи роботов Astro для бизнеса](https://habr.com/ru/news/774182/?utm_campaign=774182&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики использовали Flipper Zero для взлома Bluetooth-гаджетов](https://habr.com/ru/news/774156/?utm_campaign=774156&utm_source=habrahabr&utm_medium=rss)
 - [Apple назвала финалистов премии App Store Award 2023](https://habr.com/ru/news/774000/?utm_campaign=774000&utm_source=habrahabr&utm_medium=rss)
-- [Nothing анонсировала собственный мессенджер, совместимый с iMessage](https://habr.com/ru/news/773966/?utm_campaign=773966&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
