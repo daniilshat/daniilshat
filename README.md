@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Tesla выпустила настольные часы S3xy Time Glow Clock](https://habr.com/ru/news/775366/?utm_campaign=775366&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиаст модифицировал мышку Magic Mouse от Apple так, что её можно заряжать во время использования](https://habr.com/ru/news/775340/?utm_campaign=775340&utm_source=habrahabr&utm_medium=rss)
 - [YouTube анонсировал ИИ-инструменты для создания музыки, среди них генератор треков в стиле знаменитых исполнителей](https://habr.com/ru/news/774472/?utm_campaign=774472&utm_source=habrahabr&utm_medium=rss)
 - [«Сбер» выпустил SaluteSpeech App — приложение для распознавания и озвучивания текста](https://habr.com/ru/news/774388/?utm_campaign=774388&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики ОС «Аврора» запустили образовательный портал для школьников и студентов](https://habr.com/ru/news/774374/?utm_campaign=774374&utm_source=habrahabr&utm_medium=rss)
-- [Обновление «Яндекс Карт»: теперь сервис показывает больше информации о городе](https://habr.com/ru/news/774362/?utm_campaign=774362&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
