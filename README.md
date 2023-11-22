@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Teenage Engineering выпустила EP-133 KO II — семплер, синтезатор и секвенсор в одном корпусе](https://habr.com/ru/news/775786/?utm_campaign=775786&utm_source=habrahabr&utm_medium=rss)
+- [Google тестирует ИИ-функцию организации вкладок в Chrome](https://habr.com/ru/news/775782/?utm_campaign=775782&utm_source=habrahabr&utm_medium=rss)
 - [Стартап CheerDots представил компьютерную мышь с ChatGPT](https://habr.com/ru/news/775768/?utm_campaign=775768&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик показал, как он использует Quest 3 вместо мониторов](https://habr.com/ru/news/775758/?utm_campaign=775758&utm_source=habrahabr&utm_medium=rss)
 - [«Ведьмак» и «Ведьмак 2» получили поддержку Apple Silicon](https://habr.com/ru/news/775652/?utm_campaign=775652&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз модели Stable Video Diffusion для генерации коротких видео](https://habr.com/ru/news/775536/?utm_campaign=775536&utm_source=habrahabr&utm_medium=rss)
-- [Google обновила магазин Chrome Web Store](https://habr.com/ru/news/775530/?utm_campaign=775530&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
