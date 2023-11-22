@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик показал, как он использует Quest 3 вместо мониторов](https://habr.com/ru/news/775758/?utm_campaign=775758&utm_source=habrahabr&utm_medium=rss)
 - [«Ведьмак» и «Ведьмак 2» получили поддержку Apple Silicon](https://habr.com/ru/news/775652/?utm_campaign=775652&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз модели Stable Video Diffusion для генерации коротких видео](https://habr.com/ru/news/775536/?utm_campaign=775536&utm_source=habrahabr&utm_medium=rss)
 - [Google обновила магазин Chrome Web Store](https://habr.com/ru/news/775530/?utm_campaign=775530&utm_source=habrahabr&utm_medium=rss)
 - [Tesla выпустила настольные часы S3xy Time Glow Clock](https://habr.com/ru/news/775366/?utm_campaign=775366&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиаст модифицировал мышку Magic Mouse от Apple так, что её можно заряжать во время использования](https://habr.com/ru/news/775340/?utm_campaign=775340&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
