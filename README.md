@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчик выпустил llm.js — библиотеку для запуска больших языковых моделей в браузере](https://habr.com/ru/news/776054/?utm_campaign=776054&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили ИИ-приложение для вёрстки по скриншотам, проверяем его возможности на современных сайтах](https://habr.com/ru/news/776010/?utm_campaign=776010&utm_source=habrahabr&utm_medium=rss)
 - [Автономный роботизированный экскаватор HEAP смог самостоятельно построить стену из валунов поблизости](https://habr.com/ru/news/775950/?utm_campaign=775950&utm_source=habrahabr&utm_medium=rss)
 - [Teenage Engineering выпустила EP-133 KO II — семплер, синтезатор и секвенсор в одном корпусе](https://habr.com/ru/news/775786/?utm_campaign=775786&utm_source=habrahabr&utm_medium=rss)
 - [Google тестирует ИИ-функцию организации вкладок в Chrome](https://habr.com/ru/news/775782/?utm_campaign=775782&utm_source=habrahabr&utm_medium=rss)
-- [Стартап CheerDots представил компьютерную мышь с ChatGPT](https://habr.com/ru/news/775768/?utm_campaign=775768&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
