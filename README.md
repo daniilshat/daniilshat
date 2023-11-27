@@ -59,7 +59,7 @@ HTML   44 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Состоялся релиз Fleet 1.27 c поддержка Emmet для PHP](https://habr.com/ru/news/776758/?utm_campaign=776758&utm_source=habrahabr&utm_medium=rss)
+- [Состоялся релиз Fleet 1.27 c поддержкой Emmet для PHP](https://habr.com/ru/news/776758/?utm_campaign=776758&utm_source=habrahabr&utm_medium=rss)
 - [Проект roadmap.sh выпустил дорожную карту Rust-разработчика](https://habr.com/ru/news/776596/?utm_campaign=776596&utm_source=habrahabr&utm_medium=rss)
 - [Libre Arts: GIMP 3.0 выйдет в мае 2024 года](https://habr.com/ru/news/776282/?utm_campaign=776282&utm_source=habrahabr&utm_medium=rss)
 - [Obsidian представила обновление тарифов синхронизации данных](https://habr.com/ru/news/776146/?utm_campaign=776146&utm_source=habrahabr&utm_medium=rss)
