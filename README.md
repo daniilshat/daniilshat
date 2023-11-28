@@ -59,9 +59,9 @@ HTML   44 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Orion — браузер для macOS с блокировкой рекламы и трекеров](https://habr.com/ru/news/777054/?utm_campaign=777054&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил ИИ-сервис SMRY для генерации краткого содержания статей](https://habr.com/ru/news/776976/?utm_campaign=776976&utm_source=habrahabr&utm_medium=rss)
 - [Ноябрьские обновления SSH-клиента Termius](https://habr.com/ru/news/776856/?utm_campaign=776856&utm_source=habrahabr&utm_medium=rss)
 - [Портал «Грамота.ру» провёл масштабный ребрендинг и редизайн](https://habr.com/ru/news/776808/?utm_campaign=776808&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Fleet 1.27 c поддержкой Emmet для PHP](https://habr.com/ru/news/776758/?utm_campaign=776758&utm_source=habrahabr&utm_medium=rss)
-- [Проект roadmap.sh выпустил дорожную карту Rust-разработчика](https://habr.com/ru/news/776596/?utm_campaign=776596&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
