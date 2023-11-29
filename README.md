@@ -59,9 +59,9 @@ HTML   44 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Ayaneo официально представила компактный ПК в стиле Macintosh](https://habr.com/ru/news/777090/?utm_campaign=777090&utm_source=habrahabr&utm_medium=rss)
 - [Amazon выпустила Q — конкурента ChatGPT](https://habr.com/ru/news/777068/?utm_campaign=777068&utm_source=habrahabr&utm_medium=rss)
 - [Orion — браузер для macOS с блокировкой рекламы и трекеров](https://habr.com/ru/news/777054/?utm_campaign=777054&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил ИИ-сервис SMRY для генерации краткого содержания статей](https://habr.com/ru/news/776976/?utm_campaign=776976&utm_source=habrahabr&utm_medium=rss)
 - [Ноябрьские обновления SSH-клиента Termius](https://habr.com/ru/news/776856/?utm_campaign=776856&utm_source=habrahabr&utm_medium=rss)
-- [Портал «Грамота.ру» провёл масштабный ребрендинг и редизайн](https://habr.com/ru/news/776808/?utm_campaign=776808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
