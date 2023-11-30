@@ -59,9 +59,9 @@ HTML   44 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Meizu представила AR-очки, умное кольцо и анонсировала собственный автомобиль](https://habr.com/ru/news/777658/?utm_campaign=777658&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: рекомендательная система, расшифровка речи для всех и подсветка кода в сообщениях](https://habr.com/ru/news/777622/?utm_campaign=777622&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-помощник Great Leveler сдал тест на лицензию врача в США](https://habr.com/ru/news/777508/?utm_campaign=777508&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» вдвое увеличит флот роботов-курьеров и начнёт сдавать их в аренду бизнесу](https://habr.com/ru/news/777462/?utm_campaign=777462&utm_source=habrahabr&utm_medium=rss)
 - [В магазине Xiaomi GetApps фишинговый клиент Telegram вышел на первое место в категории «Связь»](https://habr.com/ru/news/777442/?utm_campaign=777442&utm_source=habrahabr&utm_medium=rss)
-- [Reddit провёл ребрендинг платформы: обновили шрифт, маскота и логотип](https://habr.com/ru/news/777408/?utm_campaign=777408&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
