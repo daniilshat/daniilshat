@@ -59,9 +59,9 @@ HTML   44 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В декабре Firefox для Android получит полноценную поддержку браузерных расширений](https://habr.com/ru/news/777670/?utm_campaign=777670&utm_source=habrahabr&utm_medium=rss)
 - [Чипы Apple Silicon теперь будут корпусироваться на территории США](https://habr.com/ru/news/777660/?utm_campaign=777660&utm_source=habrahabr&utm_medium=rss)
 - [Meizu представила AR-очки, умное кольцо и анонсировала собственный автомобиль](https://habr.com/ru/news/777658/?utm_campaign=777658&utm_source=habrahabr&utm_medium=rss)
 - [Обновление Telegram: рекомендательная система, расшифровка речи для всех и подсветка кода в сообщениях](https://habr.com/ru/news/777622/?utm_campaign=777622&utm_source=habrahabr&utm_medium=rss)
 - [ИИ-помощник Great Leveler сдал тест на лицензию врача в США](https://habr.com/ru/news/777508/?utm_campaign=777508&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» вдвое увеличит флот роботов-курьеров и начнёт сдавать их в аренду бизнесу](https://habr.com/ru/news/777462/?utm_campaign=777462&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
