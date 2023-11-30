@@ -59,9 +59,9 @@ HTML   44 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В магазине Xiaomi GetApps фишинговый клиент Telegram вышел на первое место в категории «Связь»](https://habr.com/ru/news/777442/?utm_campaign=777442&utm_source=habrahabr&utm_medium=rss)
 - [Reddit провёл ребрендинг платформы: обновили шрифт, маскота и логотип](https://habr.com/ru/news/777408/?utm_campaign=777408&utm_source=habrahabr&utm_medium=rss)
 - [Apple назвала победителей премии App Store Awards 2023](https://habr.com/ru/news/777390/?utm_campaign=777390&utm_source=habrahabr&utm_medium=rss)
 - [Data Frog выпустила доступную ретроконсоль R36S по цене в 40 долларов](https://habr.com/ru/news/777380/?utm_campaign=777380&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar анонсировала трилогию ремастеров GTA для мобильных устройств](https://habr.com/ru/news/777364/?utm_campaign=777364&utm_source=habrahabr&utm_medium=rss)
-- [Разработчик выпустил инструмент на Rust для конвертации изображений в ASCII-графику](https://habr.com/ru/news/777358/?utm_campaign=777358&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
