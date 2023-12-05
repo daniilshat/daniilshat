@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили HierSpeech++ — модель для генерации голоса](https://habr.com/ru/news/778610/?utm_campaign=778610&utm_source=habrahabr&utm_medium=rss)
 - [Обновление браузера Arc: шеринг цитат, Tab Handoff и подготовка к нововведениям в 2024 году](https://habr.com/ru/news/778468/?utm_campaign=778468&utm_source=habrahabr&utm_medium=rss)
 - [Google объявила финалистов премии Google Play Best of 2023 Awards](https://habr.com/ru/news/778444/?utm_campaign=778444&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс Музыка» провела ребрендинг впервые за 9 лет: обновили дизайн, рекомендации и выпустили клиент для macOS](https://habr.com/ru/news/777818/?utm_campaign=777818&utm_source=habrahabr&utm_medium=rss)
 - [В декабре Firefox для Android получит полноценную поддержку браузерных расширений](https://habr.com/ru/news/777670/?utm_campaign=777670&utm_source=habrahabr&utm_medium=rss)
-- [Чипы Apple Silicon теперь будут корпусироваться на территории США](https://habr.com/ru/news/777660/?utm_campaign=777660&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
