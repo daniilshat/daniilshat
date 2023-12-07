@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Чат-бот Google Bard теперь работает на базе Gemini Pro](https://habr.com/ru/news/779126/?utm_campaign=779126&utm_source=habrahabr&utm_medium=rss)
 - [QEMU выпустила адвент-календарь с подборкой интересных образов для эмулятора](https://habr.com/ru/news/778940/?utm_campaign=778940&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Beeper Mini, позволяющее отправлять сообщения iMessage с Android](https://habr.com/ru/news/778930/?utm_campaign=778930&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики представили нейросеть для анимации фотографий](https://habr.com/ru/news/778812/?utm_campaign=778812&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустил мобильный браузер для организаций и обновил десктопную версию](https://habr.com/ru/news/778718/?utm_campaign=778718&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Путешествия» добавили раздел для любителей горнолыжного спорта](https://habr.com/ru/news/778696/?utm_campaign=778696&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
