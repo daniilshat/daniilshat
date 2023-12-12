@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдеры раскрыли характеристики Sony PlayStation 5 Pro](https://habr.com/ru/news/780202/?utm_campaign=780202&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» выпустила обновление Angie 1.4.0](https://habr.com/ru/news/780168/?utm_campaign=780168&utm_source=habrahabr&utm_medium=rss)
 - [Apple нашла способ заблокировать Beeper Mini](https://habr.com/ru/news/780112/?utm_campaign=780112&utm_source=habrahabr&utm_medium=rss)
 - [Вышла бета-версия браузера Arc для Windows](https://habr.com/ru/news/780070/?utm_campaign=780070&utm_source=habrahabr&utm_medium=rss)
 - [В раннем доступе вышел шутер The Day Before, но пользователи жалуются на низкое качество игры](https://habr.com/ru/news/779384/?utm_campaign=779384&utm_source=habrahabr&utm_medium=rss)
-- [Apple опубликовала ответы на популярные вопросы о дизайне приложений для гарнитуры Vision Pro](https://habr.com/ru/news/779212/?utm_campaign=779212&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
