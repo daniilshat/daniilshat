@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple выпустила API и документацию по работе с новым системным приложением Journal в iOS](https://habr.com/ru/news/780480/?utm_campaign=780480&utm_source=habrahabr&utm_medium=rss)
 - [Mozilla представила MemoryCache — локального чат-бота для работы с сохранёнными веб-страницами](https://habr.com/ru/news/780454/?utm_campaign=780454&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдеры раскрыли характеристики Sony PlayStation 5 Pro](https://habr.com/ru/news/780202/?utm_campaign=780202&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» выпустила обновление Angie 1.4.0](https://habr.com/ru/news/780168/?utm_campaign=780168&utm_source=habrahabr&utm_medium=rss)
 - [Apple нашла способ заблокировать Beeper Mini](https://habr.com/ru/news/780112/?utm_campaign=780112&utm_source=habrahabr&utm_medium=rss)
-- [Вышла бета-версия браузера Arc для Windows](https://habr.com/ru/news/780070/?utm_campaign=780070&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
