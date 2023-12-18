@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple приостанавливает продажи Apple Watch Series 9 и Ultra 2 в США из-за проигранного патентного дела](https://habr.com/ru/news/781464/?utm_campaign=781464&utm_source=habrahabr&utm_medium=rss)
 - [Rockstar выпустила Grand Theft Auto: The Trilogy — The Definitive Edition для мобильных устройств](https://habr.com/ru/news/781402/?utm_campaign=781402&utm_source=habrahabr&utm_medium=rss)
 - [Модель машинного обучения Gemini Pro от Google теперь доступна разработчикам](https://habr.com/ru/news/781396/?utm_campaign=781396&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Emerge Tools открыли код Pow — библиотеки эффектов SwiftUI](https://habr.com/ru/news/780484/?utm_campaign=780484&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила API и документацию по работе с новым системным приложением Journal в iOS](https://habr.com/ru/news/780480/?utm_campaign=780480&utm_source=habrahabr&utm_medium=rss)
-- [Mozilla представила MemoryCache — локального чат-бота для работы с сохранёнными веб-страницами](https://habr.com/ru/news/780454/?utm_campaign=780454&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
