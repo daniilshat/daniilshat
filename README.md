@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi представила домашний портативный станок для лазерной гравировки](https://habr.com/ru/news/781956/?utm_campaign=781956&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики фреймворка Vue напомнили, что цикл поддержки Vue 2 завершается в конце 2023 года](https://habr.com/ru/news/781776/?utm_campaign=781776&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассматривает возможность выпуска программного патча для Apple Watch, что позволит обойти запрет на продажу](https://habr.com/ru/news/781768/?utm_campaign=781768&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила инструмент для самостоятельной диагностики iPhone](https://habr.com/ru/news/781750/?utm_campaign=781750&utm_source=habrahabr&utm_medium=rss)
 - [В Сеть утекли тестовые версии приложений из системы Apple TestFlight за период с 2012 по 2015 год](https://habr.com/ru/news/781476/?utm_campaign=781476&utm_source=habrahabr&utm_medium=rss)
-- [Apple приостанавливает продажи Apple Watch Series 9 и Ultra 2 в США из-за проигранного патентного дела](https://habr.com/ru/news/781464/?utm_campaign=781464&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
