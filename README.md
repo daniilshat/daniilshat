@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Инсайдеры: Apple запустила производство Vision Pro и планирует начать продажи в начале 2024 года](https://habr.com/ru/news/783228/?utm_campaign=783228&utm_source=habrahabr&utm_medium=rss)
 - [В Apple разрабатывают способ запуска больших языковых моделей с использованием флеш-памяти мобильных устройств](https://habr.com/ru/news/783100/?utm_campaign=783100&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила домашний портативный станок для лазерной гравировки](https://habr.com/ru/news/781956/?utm_campaign=781956&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики фреймворка Vue напомнили, что цикл поддержки Vue 2 завершается в конце 2023 года](https://habr.com/ru/news/781776/?utm_campaign=781776&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассматривает возможность выпуска программного патча для Apple Watch, что позволит обойти запрет на продажу](https://habr.com/ru/news/781768/?utm_campaign=781768&utm_source=habrahabr&utm_medium=rss)
-- [Apple выпустила инструмент для самостоятельной диагностики iPhone](https://habr.com/ru/news/781750/?utm_campaign=781750&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
