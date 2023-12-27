@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Энтузиасты работают над модом, который позволит поиграть в автономную версию The Day Before](https://habr.com/ru/news/783632/?utm_campaign=783632&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили расширение для Chrome, которое показывает ссылки на пиратские версии игр в Steam](https://habr.com/ru/news/783628/?utm_campaign=783628&utm_source=habrahabr&utm_medium=rss)
 - [LG показала прототип домашнего робота на колёсиках с ИИ](https://habr.com/ru/news/783626/?utm_campaign=783626&utm_source=habrahabr&utm_medium=rss)
 - [В Сети появились изображения защитного кейса для Apple Vision Pro](https://habr.com/ru/news/783618/?utm_campaign=783618&utm_source=habrahabr&utm_medium=rss)
 - [Власти Японии готовят закон, требующий разрешить сторонние магазины приложений на iOS](https://habr.com/ru/news/783516/?utm_campaign=783516&utm_source=habrahabr&utm_medium=rss)
-- [В «Яндекс Музее» открылась выставка «Знакомьтесь, робот-доставщик»](https://habr.com/ru/news/783490/?utm_campaign=783490&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
