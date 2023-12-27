@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Сети появились изображения защитного кейса для Apple Vision Pro](https://habr.com/ru/news/783618/?utm_campaign=783618&utm_source=habrahabr&utm_medium=rss)
 - [Власти Японии готовят закон, требующий разрешить сторонние магазины приложений на iOS](https://habr.com/ru/news/783516/?utm_campaign=783516&utm_source=habrahabr&utm_medium=rss)
 - [В «Яндекс Музее» открылась выставка «Знакомьтесь, робот-доставщик»](https://habr.com/ru/news/783490/?utm_campaign=783490&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains опубликовала итоги ежегодного опроса среди программистов](https://habr.com/ru/news/783338/?utm_campaign=783338&utm_source=habrahabr&utm_medium=rss)
 - [Инсайдеры: Apple запустила производство Vision Pro и планирует начать продажи в начале 2024 года](https://habr.com/ru/news/783228/?utm_campaign=783228&utm_source=habrahabr&utm_medium=rss)
-- [В Apple разрабатывают способ запуска больших языковых моделей с использованием флеш-памяти мобильных устройств](https://habr.com/ru/news/783100/?utm_campaign=783100&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
