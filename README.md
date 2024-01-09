@@ -60,9 +60,9 @@ HTML   44 mins         ███████████▓░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Wi-Fi Alliance представила стандарт Wi-Fi 7](https://habr.com/ru/news/785150/?utm_campaign=785150&utm_source=habrahabr&utm_medium=rss)
 - [Valve представила топ игр 2023 года в Steam](https://habr.com/ru/news/783808/?utm_campaign=783808&utm_source=habrahabr&utm_medium=rss)
 - [Apple внесла изменения в код прошивки Apple Watch и ждёт решение апелляционного суда США](https://habr.com/ru/news/783770/?utm_campaign=783770&utm_source=habrahabr&utm_medium=rss)
 - [Энтузиасты работают над модом, который позволит поиграть в автономную версию The Day Before](https://habr.com/ru/news/783632/?utm_campaign=783632&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили расширение для Chrome, которое показывает ссылки на пиратские версии игр в Steam](https://habr.com/ru/news/783628/?utm_campaign=783628&utm_source=habrahabr&utm_medium=rss)
-- [LG показала прототип домашнего робота на колёсиках с ИИ](https://habr.com/ru/news/783626/?utm_campaign=783626&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
