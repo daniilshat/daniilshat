@@ -60,9 +60,9 @@ HTML   44 mins         ███████████▓░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [MSI опубликовала характеристики портативного игрового ПК Claw](https://habr.com/ru/news/785230/?utm_campaign=785230&utm_source=habrahabr&utm_medium=rss)
 - [Xgimi представила Aladdin: проектор, потолочный светильник и беспроводная колонка в одном корпусе](https://habr.com/ru/news/785180/?utm_campaign=785180&utm_source=habrahabr&utm_medium=rss)
 - [Wi-Fi Alliance представила стандарт Wi-Fi 7](https://habr.com/ru/news/785150/?utm_campaign=785150&utm_source=habrahabr&utm_medium=rss)
 - [Valve представила топ игр 2023 года в Steam](https://habr.com/ru/news/783808/?utm_campaign=783808&utm_source=habrahabr&utm_medium=rss)
 - [Apple внесла изменения в код прошивки Apple Watch и ждёт решение апелляционного суда США](https://habr.com/ru/news/783770/?utm_campaign=783770&utm_source=habrahabr&utm_medium=rss)
-- [Энтузиасты работают над модом, который позволит поиграть в автономную версию The Day Before](https://habr.com/ru/news/783632/?utm_campaign=783632&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
