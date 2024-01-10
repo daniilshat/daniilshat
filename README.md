@@ -60,9 +60,9 @@ HTML   49 mins         ████████████░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [СМИ: власти Китая взломали AirDrop и теперь могут отслеживать номера телефонов и адреса электронной почты отправителей](https://habr.com/ru/news/785428/?utm_campaign=785428&utm_source=habrahabr&utm_medium=rss)
 - [Портал поддержки GitHub теперь доступен только через учётную запись GitHub](https://habr.com/ru/news/785348/?utm_campaign=785348&utm_source=habrahabr&utm_medium=rss)
 - [MSI опубликовала характеристики портативного игрового ПК Claw](https://habr.com/ru/news/785230/?utm_campaign=785230&utm_source=habrahabr&utm_medium=rss)
 - [Xgimi представила Aladdin: проектор, потолочный светильник и беспроводная колонка в одном корпусе](https://habr.com/ru/news/785180/?utm_campaign=785180&utm_source=habrahabr&utm_medium=rss)
 - [Wi-Fi Alliance представила стандарт Wi-Fi 7](https://habr.com/ru/news/785150/?utm_campaign=785150&utm_source=habrahabr&utm_medium=rss)
-- [Valve представила топ игр 2023 года в Steam](https://habr.com/ru/news/783808/?utm_campaign=783808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
