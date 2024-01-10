@@ -60,9 +60,9 @@ HTML   49 mins         ████████████░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Asus представила портативный складной OLED-монитор ZenScreen Fold](https://habr.com/ru/news/785610/?utm_campaign=785610&utm_source=habrahabr&utm_medium=rss)
 - [Xreal представила AR-очки с 3D-камерами для отслеживания движения рук](https://habr.com/ru/news/785606/?utm_campaign=785606&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI официально запустила GPT Store — магазин кастомных чат-ботов](https://habr.com/ru/news/785600/?utm_campaign=785600&utm_source=habrahabr&utm_medium=rss)
 - [Стартап Rabbit представил компактное устройство с ИИ-ассистентом, управляющим любыми приложениями](https://habr.com/ru/news/785566/?utm_campaign=785566&utm_source=habrahabr&utm_medium=rss)
 - [СМИ: власти Китая взломали AirDrop и теперь могут отслеживать номера телефонов и адреса электронной почты отправителей](https://habr.com/ru/news/785428/?utm_campaign=785428&utm_source=habrahabr&utm_medium=rss)
-- [Портал поддержки GitHub теперь доступен только через учётную запись GitHub](https://habr.com/ru/news/785348/?utm_campaign=785348&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
