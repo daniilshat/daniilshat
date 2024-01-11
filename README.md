@@ -60,9 +60,9 @@ HTML   49 mins         ████████████░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В блоге Raspberry Pi показали официальные PCB-бейджи участников конференции GitHub Universe](https://habr.com/ru/news/785812/?utm_campaign=785812&utm_source=habrahabr&utm_medium=rss)
 - [Rabbit получила заказы на 10 тыс. карманных ИИ-компаньонов R1 за сутки](https://habr.com/ru/news/785688/?utm_campaign=785688&utm_source=habrahabr&utm_medium=rss)
 - [Asus представила портативный складной OLED-монитор ZenScreen Fold](https://habr.com/ru/news/785610/?utm_campaign=785610&utm_source=habrahabr&utm_medium=rss)
 - [Xreal представила AR-очки с 3D-камерами для отслеживания движения рук](https://habr.com/ru/news/785606/?utm_campaign=785606&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI официально запустила GPT Store — магазин кастомных чат-ботов](https://habr.com/ru/news/785600/?utm_campaign=785600&utm_source=habrahabr&utm_medium=rss)
-- [Стартап Rabbit представил компактное устройство с ИИ-ассистентом, управляющим любыми приложениями](https://habr.com/ru/news/785566/?utm_campaign=785566&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
