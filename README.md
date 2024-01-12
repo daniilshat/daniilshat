@@ -60,9 +60,9 @@ HTML   32 mins         █████████▓░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Японский стартап One By One Music запустил стриминговый сервис для скучающих домашних собак](https://habr.com/ru/news/785954/?utm_campaign=785954&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз редактора кода BBEdit 15 с поддержкой ChatGPT и новой мини-картой файла](https://habr.com/ru/news/785852/?utm_campaign=785852&utm_source=habrahabr&utm_medium=rss)
 - [Apple устранила уязвимость в Magic Keyboard, которая позволяла перехватывать данные по Bluetooth](https://habr.com/ru/news/785834/?utm_campaign=785834&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Raspberry Pi показали официальные PCB-бейджи участников конференции GitHub Universe](https://habr.com/ru/news/785812/?utm_campaign=785812&utm_source=habrahabr&utm_medium=rss)
 - [Rabbit получила заказы на 10 тыс. карманных ИИ-компаньонов R1 за сутки](https://habr.com/ru/news/785688/?utm_campaign=785688&utm_source=habrahabr&utm_medium=rss)
-- [Asus представила портативный складной OLED-монитор ZenScreen Fold](https://habr.com/ru/news/785610/?utm_campaign=785610&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
