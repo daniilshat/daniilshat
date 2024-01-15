@@ -59,9 +59,9 @@ HTML   14 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Пользователи жалуются, что macOS сама обновилась с Monterey до Sonoma после перезагрузки](https://habr.com/ru/news/786472/?utm_campaign=786472&utm_source=habrahabr&utm_medium=rss)
+- [Релиз обновления редактора кода Fleet 1.29: создание файлов из фрагментов кода и встроенный рефакторинг переменных](https://habr.com/ru/news/786500/?utm_campaign=786500&utm_source=habrahabr&utm_medium=rss)
+- [Пользователи жалуются, что macOS сама обновляется с Monterey до Sonoma после перезагрузки](https://habr.com/ru/news/786472/?utm_campaign=786472&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики браузера Arc выпустили первое обновление в 2024 году](https://habr.com/ru/news/786442/?utm_campaign=786442&utm_source=habrahabr&utm_medium=rss)
 - [Российское решение для облачных сред Kubernetes Angie Ingress Controller &lpar;ANIC&rpar; вошло в реестр отечественного ПО](https://habr.com/ru/news/786408/?utm_campaign=786408&utm_source=habrahabr&utm_medium=rss)
 - [Японский стартап One By One Music запустил стриминговый сервис для скучающих домашних собак](https://habr.com/ru/news/785954/?utm_campaign=785954&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз редактора кода BBEdit 15 с поддержкой ChatGPT и новой мини-картой файла](https://habr.com/ru/news/785852/?utm_campaign=785852&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
