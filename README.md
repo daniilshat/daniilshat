@@ -59,9 +59,9 @@ HTML   14 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики браузера Arc выпустили первое обновление в 2024 году](https://habr.com/ru/news/786442/?utm_campaign=786442&utm_source=habrahabr&utm_medium=rss)
 - [Российское решение для облачных сред Kubernetes Angie Ingress Controller &lpar;ANIC&rpar; вошло в реестр отечественного ПО](https://habr.com/ru/news/786408/?utm_campaign=786408&utm_source=habrahabr&utm_medium=rss)
 - [Японский стартап One By One Music запустил стриминговый сервис для скучающих домашних собак](https://habr.com/ru/news/785954/?utm_campaign=785954&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз редактора кода BBEdit 15 с поддержкой ChatGPT и новой мини-картой файла](https://habr.com/ru/news/785852/?utm_campaign=785852&utm_source=habrahabr&utm_medium=rss)
 - [Apple устранила уязвимость в Magic Keyboard, которая позволяла перехватывать данные по Bluetooth](https://habr.com/ru/news/785834/?utm_campaign=785834&utm_source=habrahabr&utm_medium=rss)
-- [В блоге Raspberry Pi показали официальные PCB-бейджи участников конференции GitHub Universe](https://habr.com/ru/news/785812/?utm_campaign=785812&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
