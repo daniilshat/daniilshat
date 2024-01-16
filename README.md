@@ -59,9 +59,9 @@ HTML   4 mins          ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple запустила App Store для Vision Pro, но пока только для разработчиков](https://habr.com/ru/news/786908/?utm_campaign=786908&utm_source=habrahabr&utm_medium=rss)
+- [У пользователей из Европы будет отдельный App Store, соответствующий требованиям Евросоюза](https://habr.com/ru/news/786906/?utm_campaign=786906&utm_source=habrahabr&utm_medium=rss)
 - [Apple рассказала про развлечения, которые будут доступны в Vision Pro на старте](https://habr.com/ru/news/786902/?utm_campaign=786902&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи Meta* Research выпустили нейросеть для генерации жестов и мимики 3D-аватаров на основе записанной речи](https://habr.com/ru/news/786806/?utm_campaign=786806&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики улучшили Vroomba — модификацию робота-пылесоса Roomba, которая разгоняется до 60 км/ч](https://habr.com/ru/news/786772/?utm_campaign=786772&utm_source=habrahabr&utm_medium=rss)
-- [GitHub подвела итоги геймдев-джема Game Off 2023](https://habr.com/ru/news/786530/?utm_campaign=786530&utm_source=habrahabr&utm_medium=rss)
-- [Релиз обновления редактора кода Fleet 1.29: создание файлов из фрагментов кода и встроенный рефакторинг переменных](https://habr.com/ru/news/786500/?utm_campaign=786500&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
