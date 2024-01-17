@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [На рынок вышла компактная ретро-консоль GKD Pixel за 90 долларов](https://habr.com/ru/news/787148/?utm_campaign=787148&utm_source=habrahabr&utm_medium=rss)
 - [Шимпанзе по кличке Канзи научился побеждать Эндер-дракона в Minecraft](https://habr.com/ru/news/787052/?utm_campaign=787052&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из ОАЭ представили нейросеть, правдоподобно имитирующую почерк человека](https://habr.com/ru/news/787012/?utm_campaign=787012&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила App Store для Vision Pro, но пока только для разработчиков](https://habr.com/ru/news/786908/?utm_campaign=786908&utm_source=habrahabr&utm_medium=rss)
 - [У пользователей из Европы будет отдельный App Store, соответствующий требованиям Евросоюза](https://habr.com/ru/news/786906/?utm_campaign=786906&utm_source=habrahabr&utm_medium=rss)
-- [Apple рассказала про развлечения, которые будут доступны в Vision Pro на старте](https://habr.com/ru/news/786902/?utm_campaign=786902&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
