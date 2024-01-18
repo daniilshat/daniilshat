@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Лауреат самой престижной в Японии литературной премии рассказала, что использовала помощь ChatGPT при написании романа](https://habr.com/ru/news/787426/?utm_campaign=787426&utm_source=habrahabr&utm_medium=rss)
 - [Sharge представила портативный аккумулятор Icemag с MagSafe и системой охлаждения](https://habr.com/ru/news/787352/?utm_campaign=787352&utm_source=habrahabr&utm_medium=rss)
 - [DJI представила FlyCart 30 — грузовой беспилотник, способный перевезти до 40 килограммов](https://habr.com/ru/news/787154/?utm_campaign=787154&utm_source=habrahabr&utm_medium=rss)
 - [На рынок вышла компактная ретро-консоль GKD Pixel за 90 долларов](https://habr.com/ru/news/787148/?utm_campaign=787148&utm_source=habrahabr&utm_medium=rss)
 - [Шимпанзе по кличке Канзи научился побеждать Эндер-дракона в Minecraft](https://habr.com/ru/news/787052/?utm_campaign=787052&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из ОАЭ представили нейросеть, правдоподобно имитирующую почерк человека](https://habr.com/ru/news/787012/?utm_campaign=787012&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
