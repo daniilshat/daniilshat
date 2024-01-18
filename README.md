@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Студия Halfbrick рассказала об опыте переноса культовой игры Super Fruit Ninja на Apple Vision Pro](https://habr.com/ru/news/787430/?utm_campaign=787430&utm_source=habrahabr&utm_medium=rss)
+- [Гаджет MouthPad, позволяющий управлять смартфоном или компьютером с помощью языка, поступит в продажу в этом году](https://habr.com/ru/news/787428/?utm_campaign=787428&utm_source=habrahabr&utm_medium=rss)
 - [Лауреат самой престижной в Японии литературной премии рассказала, что использовала помощь ChatGPT при написании романа](https://habr.com/ru/news/787426/?utm_campaign=787426&utm_source=habrahabr&utm_medium=rss)
 - [Sharge представила портативный аккумулятор Icemag с MagSafe и системой охлаждения](https://habr.com/ru/news/787352/?utm_campaign=787352&utm_source=habrahabr&utm_medium=rss)
 - [DJI представила FlyCart 30 — грузовой беспилотник, способный перевезти до 40 килограммов](https://habr.com/ru/news/787154/?utm_campaign=787154&utm_source=habrahabr&utm_medium=rss)
-- [На рынок вышла компактная ретро-консоль GKD Pixel за 90 долларов](https://habr.com/ru/news/787148/?utm_campaign=787148&utm_source=habrahabr&utm_medium=rss)
-- [Шимпанзе по кличке Канзи научился побеждать Эндер-дракона в Minecraft](https://habr.com/ru/news/787052/?utm_campaign=787052&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
