@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Приём заявок на Apple Swift Student Challenge 2024 открывается 5 февраля](https://habr.com/ru/news/788520/?utm_campaign=788520&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил веб-приложение на базе GPT-4 и Dall-E 3 для генерации фигурок Lego по фотографии](https://habr.com/ru/news/788192/?utm_campaign=788192&utm_source=habrahabr&utm_medium=rss)
 - [Disney Research представила прототип особого покрытия пола для VR, которое не даёт игрокам далеко уходить](https://habr.com/ru/news/788188/?utm_campaign=788188&utm_source=habrahabr&utm_medium=rss)
 - [Журналисты рассказали о приложениях, которые будут работать на Vision Pro в нативном режиме](https://habr.com/ru/news/788082/?utm_campaign=788082&utm_source=habrahabr&utm_medium=rss)
 - [Parallels Desktop теперь может запускать Arm-версию Windows 11 на M3](https://habr.com/ru/news/787988/?utm_campaign=787988&utm_source=habrahabr&utm_medium=rss)
-- [Huawei представила HarmonyOS Next — мобильную ОС без компонентов AOSP](https://habr.com/ru/news/787560/?utm_campaign=787560&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
