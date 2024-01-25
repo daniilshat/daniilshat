@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple подробно рассказала об изменениях в iOS, Safari и App Store для пользователей из Европы](https://habr.com/ru/news/789070/?utm_campaign=789070&utm_source=habrahabr&utm_medium=rss)
 - [Apple будет доплачивать артистам, публикующим музыку в Apple Music в формате пространственного аудио](https://habr.com/ru/news/788890/?utm_campaign=788890&utm_source=habrahabr&utm_medium=rss)
 - [Docker представила Build Cloud — облачную платформу для сборки проектов](https://habr.com/ru/news/788726/?utm_campaign=788726&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики развивают проект Jan — открытую альтернативу ChatGPT, которая работает локально](https://habr.com/ru/news/788698/?utm_campaign=788698&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз iOS и iPadOS 17.3](https://habr.com/ru/news/788568/?utm_campaign=788568&utm_source=habrahabr&utm_medium=rss)
-- [Приём заявок на Apple Swift Student Challenge 2024 открывается 5 февраля](https://habr.com/ru/news/788520/?utm_campaign=788520&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
