@@ -59,9 +59,9 @@ HTML   18 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google представила Lumiere — нейросеть для генерации реалистичных видео](https://habr.com/ru/news/789650/?utm_campaign=789650&utm_source=habrahabr&utm_medium=rss)
 - [На GitHub опубликовали план изучения информационной безопасности за 90 дней](https://habr.com/ru/news/789558/?utm_campaign=789558&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains поделилась статистикой магазина плагинов для своих IDE за 2023 год](https://habr.com/ru/news/789480/?utm_campaign=789480&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Shittier — утилиту, которая делает код нечитаемым](https://habr.com/ru/news/789286/?utm_campaign=789286&utm_source=habrahabr&utm_medium=rss)
 - [Apple подробно рассказала об изменениях в iOS, Safari и App Store для пользователей из Европы](https://habr.com/ru/news/789070/?utm_campaign=789070&utm_source=habrahabr&utm_medium=rss)
-- [Apple будет доплачивать артистам, публикующим музыку в Apple Music в формате пространственного аудио](https://habr.com/ru/news/788890/?utm_campaign=788890&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
