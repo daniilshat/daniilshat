@@ -59,9 +59,9 @@ HTML   18 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google представила обновление чат-бота для Android, теперь он читает личные сообщения пользователей](https://habr.com/ru/news/789924/?utm_campaign=789924&utm_source=habrahabr&utm_medium=rss)
 - [Сервис ByteByteGo опубликовал репозиторий с визуальными материалами для изучения IT-систем](https://habr.com/ru/news/789808/?utm_campaign=789808&utm_source=habrahabr&utm_medium=rss)
 - [Упрощённую заставку DOOM вывели на дисплей из клеток кишечной палочки](https://habr.com/ru/news/789788/?utm_campaign=789788&utm_source=habrahabr&utm_medium=rss)
 - [Команда Unity Sentis начала публиковать на Hugging Face адаптированные под Unity модели машинного обучения](https://habr.com/ru/news/789762/?utm_campaign=789762&utm_source=habrahabr&utm_medium=rss)
 - [Docker открыла доступ к Scout разработчикам проектов в Open Source](https://habr.com/ru/news/789754/?utm_campaign=789754&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики iOS-приложений теперь могут отказаться от использования Sign in with Apple](https://habr.com/ru/news/789732/?utm_campaign=789732&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
