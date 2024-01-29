@@ -59,9 +59,9 @@ HTML   18 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Упрощённую заставку DOOM вывели на дисплей из клеток кишечной палочки](https://habr.com/ru/news/789788/?utm_campaign=789788&utm_source=habrahabr&utm_medium=rss)
 - [Команда Unity Sentis начала публиковать на Hugging Face адаптированные под Unity модели машинного обучения](https://habr.com/ru/news/789762/?utm_campaign=789762&utm_source=habrahabr&utm_medium=rss)
 - [Docker открыла доступ к Scout разработчикам проектов в Open Source](https://habr.com/ru/news/789754/?utm_campaign=789754&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики iOS-приложений теперь могут отказаться от использования Sign in with Apple](https://habr.com/ru/news/789732/?utm_campaign=789732&utm_source=habrahabr&utm_medium=rss)
 - [Google представила Lumiere — нейросеть для генерации реалистичных видео](https://habr.com/ru/news/789650/?utm_campaign=789650&utm_source=habrahabr&utm_medium=rss)
-- [На GitHub опубликовали план изучения информационной безопасности за 90 дней](https://habr.com/ru/news/789558/?utm_campaign=789558&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
