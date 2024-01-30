@@ -59,9 +59,9 @@ HTML   18 mins         ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Облачный редактор кода Project IDX от Google теперь поддерживает эмуляторы Android  и iOS-симуляторы](https://habr.com/ru/news/790226/?utm_campaign=790226&utm_source=habrahabr&utm_medium=rss)
 - [Максим Шафиров уходит с поста генерального директора JetBrains](https://habr.com/ru/news/790106/?utm_campaign=790106&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance представила Coze — платформу-конструктор для создания чат-ботов на базе GPT](https://habr.com/ru/news/790066/?utm_campaign=790066&utm_source=habrahabr&utm_medium=rss)
 - [Google представила обновление чат-бота для Android, теперь он читает личные сообщения пользователей](https://habr.com/ru/news/789924/?utm_campaign=789924&utm_source=habrahabr&utm_medium=rss)
 - [Сервис ByteByteGo опубликовал репозиторий с визуальными материалами для изучения IT-систем](https://habr.com/ru/news/789808/?utm_campaign=789808&utm_source=habrahabr&utm_medium=rss)
-- [Упрощённую заставку DOOM вывели на дисплей из клеток кишечной палочки](https://habr.com/ru/news/789788/?utm_campaign=789788&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
