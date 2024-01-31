@@ -60,9 +60,9 @@ HTML   31 mins         ████████████░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Juniper Networks представила Marvis Minis — ИИ-помощника  для сетевых инженеров и системных администраторов](https://habr.com/ru/news/790534/?utm_campaign=790534&utm_source=habrahabr&utm_medium=rss)
 - [В коде Apple TV нашли упоминание homeOS, которую Apple пока не представляла официально](https://habr.com/ru/news/790448/?utm_campaign=790448&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил Wren — минималистичный CLI-трекер задач с поддержкой Telegram-бота](https://habr.com/ru/news/790238/?utm_campaign=790238&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила функцию для Android-разработчиков, позволяющую напоминать пользователям про обновления](https://habr.com/ru/news/790234/?utm_campaign=790234&utm_source=habrahabr&utm_medium=rss)
 - [Облачный редактор кода Project IDX от Google теперь поддерживает эмуляторы Android и iOS-симуляторы](https://habr.com/ru/news/790226/?utm_campaign=790226&utm_source=habrahabr&utm_medium=rss)
-- [Максим Шафиров уходит с поста генерального директора JetBrains](https://habr.com/ru/news/790106/?utm_campaign=790106&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
