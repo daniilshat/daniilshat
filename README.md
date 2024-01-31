@@ -62,7 +62,7 @@ HTML   31 mins         ████████████░░░░░░░
 <!-- BLOG-POST-LIST:START -->
 - [Разработчик выпустил Wren — минималистичный CLI-трекер задач с поддержкой Telegram-бота](https://habr.com/ru/news/790238/?utm_campaign=790238&utm_source=habrahabr&utm_medium=rss)
 - [Google добавила функцию для Android-разработчиков, позволяющую напоминать пользователям про обновления](https://habr.com/ru/news/790234/?utm_campaign=790234&utm_source=habrahabr&utm_medium=rss)
-- [Облачный редактор кода Project IDX от Google теперь поддерживает эмуляторы Android  и iOS-симуляторы](https://habr.com/ru/news/790226/?utm_campaign=790226&utm_source=habrahabr&utm_medium=rss)
+- [Облачный редактор кода Project IDX от Google теперь поддерживает эмуляторы Android и iOS-симуляторы](https://habr.com/ru/news/790226/?utm_campaign=790226&utm_source=habrahabr&utm_medium=rss)
 - [Максим Шафиров уходит с поста генерального директора JetBrains](https://habr.com/ru/news/790106/?utm_campaign=790106&utm_source=habrahabr&utm_medium=rss)
 - [ByteDance представила Coze — платформу-конструктор для создания чат-ботов на базе GPT](https://habr.com/ru/news/790066/?utm_campaign=790066&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
