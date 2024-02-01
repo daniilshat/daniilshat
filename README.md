@@ -60,9 +60,9 @@ HTML   31 mins         ████████████░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro не поддерживает горячую замену батареи, а для её подключения используется 12-пиновый Lightning](https://habr.com/ru/news/790808/?utm_campaign=790808&utm_source=habrahabr&utm_medium=rss)
 - [Весь офисный пакет Microsoft будет доступен на Apple Vision Pro](https://habr.com/ru/news/790778/?utm_campaign=790778&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик порта TensorFlow Lite для Raspberry Pi Pico впервые за три года выпустил крупное обновление](https://habr.com/ru/news/790668/?utm_campaign=790668&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/?utm_campaign=790590&utm_source=habrahabr&utm_medium=rss)
 - [Unity добавила поддержку Apple Vision Pro для всех разработчиков игр](https://habr.com/ru/news/790536/?utm_campaign=790536&utm_source=habrahabr&utm_medium=rss)
-- [Juniper Networks представила Marvis Minis — ИИ-помощника  для сетевых инженеров и системных администраторов](https://habr.com/ru/news/790534/?utm_campaign=790534&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
