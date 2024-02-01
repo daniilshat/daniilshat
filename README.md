@@ -60,9 +60,9 @@ HTML   31 mins         ████████████░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Весь офисный пакет Microsoft будет доступен на Apple Vision Pro](https://habr.com/ru/news/790778/?utm_campaign=790778&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик порта TensorFlow Lite для Raspberry Pi Pico впервые за три года выпустил крупное обновление](https://habr.com/ru/news/790668/?utm_campaign=790668&utm_source=habrahabr&utm_medium=rss)
 - [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/?utm_campaign=790590&utm_source=habrahabr&utm_medium=rss)
 - [Unity добавила поддержку Apple Vision Pro для всех разработчиков игр](https://habr.com/ru/news/790536/?utm_campaign=790536&utm_source=habrahabr&utm_medium=rss)
 - [Juniper Networks представила Marvis Minis — ИИ-помощника  для сетевых инженеров и системных администраторов](https://habr.com/ru/news/790534/?utm_campaign=790534&utm_source=habrahabr&utm_medium=rss)
-- [В коде Apple TV нашли упоминание homeOS, которую Apple пока не представляла официально](https://habr.com/ru/news/790448/?utm_campaign=790448&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
