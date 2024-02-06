@@ -63,9 +63,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [JetBrains анонсировала онлайн-конференцию IntelliJ IDEA 2024](https://habr.com/ru/news/791800/?utm_campaign=791800&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Astro 4.3: конфигурация доменов для i18n и больше контроля над HTML-файлами](https://habr.com/ru/news/791732/?utm_campaign=791732&utm_source=habrahabr&utm_medium=rss)
 - [Apple Vision Pro не поддерживает горячую замену батареи, а для её подключения используется 12-пиновый Lightning](https://habr.com/ru/news/790808/?utm_campaign=790808&utm_source=habrahabr&utm_medium=rss)
 - [Весь офисный пакет Microsoft будет доступен на Apple Vision Pro](https://habr.com/ru/news/790778/?utm_campaign=790778&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик порта TensorFlow Lite для Raspberry Pi Pico впервые за три года выпустил крупное обновление](https://habr.com/ru/news/790668/?utm_campaign=790668&utm_source=habrahabr&utm_medium=rss)
-- [Meta* выпустила версию Code Llama 70B](https://habr.com/ru/news/790590/?utm_campaign=790590&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
