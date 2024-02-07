@@ -63,9 +63,9 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запускает предварительную поддержку Universal Print для macOS](https://habr.com/ru/news/792212/?utm_campaign=792212&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила нейросеть MGIE для редактирования изображений по текстовому описанию](https://habr.com/ru/news/792178/?utm_campaign=792178&utm_source=habrahabr&utm_medium=rss)
 - [Минорное обновление CLion Nova: ИИ-ассистент и улучшения из ReSharper v2024.1](https://habr.com/ru/news/791888/?utm_campaign=791888&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains анонсировала онлайн-конференцию IntelliJ IDEA 2024](https://habr.com/ru/news/791800/?utm_campaign=791800&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Astro 4.3: конфигурация доменов для i18n и больше контроля над HTML-файлами](https://habr.com/ru/news/791732/?utm_campaign=791732&utm_source=habrahabr&utm_medium=rss)
-- [Apple Vision Pro не поддерживает горячую замену батареи, а для её подключения используется 12-пиновый Lightning](https://habr.com/ru/news/790808/?utm_campaign=790808&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
