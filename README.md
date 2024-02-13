@@ -61,9 +61,9 @@ CSS    4 mins          ███░░░░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Firefox появится функция предпросмотра вкладок](https://habr.com/ru/news/793556/?utm_campaign=793556&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT теперь может запоминать факты о пользователе и учитывать их во время генерации ответов](https://habr.com/ru/news/793552/?utm_campaign=793552&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Chat with RTX — приложение для локального запуска LLM](https://habr.com/ru/news/793542/?utm_campaign=793542&utm_source=habrahabr&utm_medium=rss)
 - [Flipper Devices представила модуль Video Game для Flipper Zero](https://habr.com/ru/news/793452/?utm_campaign=793452&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Gemini стал доступен в приложении Google для Android и iOS](https://habr.com/ru/news/793304/?utm_campaign=793304&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз инструмента Galileo AI для генерации дизайна интерфейсов](https://habr.com/ru/news/793162/?utm_campaign=793162&utm_source=habrahabr&utm_medium=rss)
-- [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/?utm_campaign=792578&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
