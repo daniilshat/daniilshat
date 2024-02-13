@@ -61,9 +61,9 @@ CSS    4 mins          ███░░░░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Flipper Devices представила модуль Video Game для Flipper Zero](https://habr.com/ru/news/793452/?utm_campaign=793452&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Gemini стал доступен в приложении Google для Android и iOS](https://habr.com/ru/news/793304/?utm_campaign=793304&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз инструмента Galileo AI для генерации дизайна интерфейсов](https://habr.com/ru/news/793162/?utm_campaign=793162&utm_source=habrahabr&utm_medium=rss)
 - [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/?utm_campaign=792578&utm_source=habrahabr&utm_medium=rss)
 - [Безопасность конфигураций веб-сервера Angie PRO теперь контролирует X-Config](https://habr.com/ru/news/792334/?utm_campaign=792334&utm_source=habrahabr&utm_medium=rss)
-- [Sharge выпустила Retro 67 — блок питания в дизайне Macintosh](https://habr.com/ru/news/792314/?utm_campaign=792314&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
