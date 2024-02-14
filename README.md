@@ -61,9 +61,9 @@ CSS    4 mins          ███▒░░░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Автор шрифта Pixel Code для IDE и редакторов кода обновил проект](https://habr.com/ru/news/793748/?utm_campaign=793748&utm_source=habrahabr&utm_medium=rss)
 - [Apple удалила пиратское стриминговое приложение Kimi, которое попало в тренды App Store](https://habr.com/ru/news/793706/?utm_campaign=793706&utm_source=habrahabr&utm_medium=rss)
 - [В Firefox появится функция предпросмотра вкладок](https://habr.com/ru/news/793556/?utm_campaign=793556&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь может запоминать факты о пользователе и учитывать их во время генерации ответов](https://habr.com/ru/news/793552/?utm_campaign=793552&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила Chat with RTX — приложение для локального запуска LLM](https://habr.com/ru/news/793542/?utm_campaign=793542&utm_source=habrahabr&utm_medium=rss)
-- [Flipper Devices представила модуль Video Game для Flipper Zero](https://habr.com/ru/news/793452/?utm_campaign=793452&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
