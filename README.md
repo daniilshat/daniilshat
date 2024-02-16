@@ -61,9 +61,9 @@ CSS    4 mins          ███▒░░░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple подтвердила, что в iOS 17.4 полностью отключит поддержку PWA для пользователей из ЕС](https://habr.com/ru/news/794154/?utm_campaign=794154&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» исправила уязвимость CVE-2024-24989 в Angie и Angie Pro](https://habr.com/ru/news/794080/?utm_campaign=794080&utm_source=habrahabr&utm_medium=rss)
 - [В России утвердили частоты для 5G](https://habr.com/ru/news/793986/?utm_campaign=793986&utm_source=habrahabr&utm_medium=rss)
 - [Y Combinator назвал стартапы, которые хочет видеть у себя: ML в разных сферах, космические и оборонные технологии](https://habr.com/ru/news/793910/?utm_campaign=793910&utm_source=habrahabr&utm_medium=rss)
 - [Максим Дунин, один из разработчиков nginx, создал собственный форк веб-сервера](https://habr.com/ru/news/793808/?utm_campaign=793808&utm_source=habrahabr&utm_medium=rss)
-- [Stability AI выпустила модель Stable Cascade для генерации изображений](https://habr.com/ru/news/793800/?utm_campaign=793800&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
