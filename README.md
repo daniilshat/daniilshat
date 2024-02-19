@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Tempo — библиотеки для работы с датами в JavaScript и TypeScript](https://habr.com/ru/news/794720/?utm_campaign=794720&utm_source=habrahabr&utm_medium=rss)
 - [Команда UX-редакторов Apple опубликовала ответы на вопросы разработчиков приложений](https://habr.com/ru/news/794702/?utm_campaign=794702&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили NotesGPT — веб-приложение для транскрибации голосовых заметок](https://habr.com/ru/news/794690/?utm_campaign=794690&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи обнаружили троян для iOS, похищающий биометрию пользователей](https://habr.com/ru/news/794434/?utm_campaign=794434&utm_source=habrahabr&utm_medium=rss)
 - [Президент Microsoft рассказал, как компания будет бороться с «оскорбительным контентом, созданным ИИ»](https://habr.com/ru/news/794324/?utm_campaign=794324&utm_source=habrahabr&utm_medium=rss)
-- [Apple подтвердила, что в iOS 17.4 полностью отключит поддержку PWA для пользователей из ЕС](https://habr.com/ru/news/794154/?utm_campaign=794154&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
