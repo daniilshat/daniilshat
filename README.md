@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Glur — библиотеки для добавления SwiftUI-блюра на шейдерах Metal](https://habr.com/ru/news/794989/?utm_campaign=794989&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Firefox 123: улучшенный перевод и нововведения для разработчиков](https://habr.com/ru/news/794955/?utm_campaign=794955&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» тестирует протокол Matter в приложении «Умный дом с Алисой»](https://habr.com/ru/news/794917/?utm_campaign=794917&utm_source=habrahabr&utm_medium=rss)
 - [Google может заблокировать разработку портов Google Camera](https://habr.com/ru/news/794815/?utm_campaign=794815&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество Rust опубликовало результаты ежегодного опроса за 2023 год](https://habr.com/ru/news/794803/?utm_campaign=794803&utm_source=habrahabr&utm_medium=rss)
-- [Состоялся релиз Tempo — библиотеки для работы с датами в JavaScript и TypeScript](https://habr.com/ru/news/794720/?utm_campaign=794720&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
