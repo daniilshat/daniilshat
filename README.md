@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Signal теперь можно использовать никнеймы вместо номеров телефонов](https://habr.com/ru/news/795371/?utm_campaign=795371&utm_source=habrahabr&utm_medium=rss)
+- [На macOS вышло приложение JuxtaCode для анализа истории кода](https://habr.com/ru/news/795353/?utm_campaign=795353&utm_source=habrahabr&utm_medium=rss)
 - [Swift 5.11 не выйдет в 2024 году, вместо него Apple выпустит Swift 6](https://habr.com/ru/news/795073/?utm_campaign=795073&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Glur — библиотеки для добавления SwiftUI-блюра на шейдерах Metal](https://habr.com/ru/news/794989/?utm_campaign=794989&utm_source=habrahabr&utm_medium=rss)
 - [Релиз Firefox 123: улучшенный перевод и нововведения для разработчиков](https://habr.com/ru/news/794955/?utm_campaign=794955&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» тестирует протокол Matter в приложении «Умный дом с Алисой»](https://habr.com/ru/news/794917/?utm_campaign=794917&utm_source=habrahabr&utm_medium=rss)
-- [Google может заблокировать разработку портов Google Camera](https://habr.com/ru/news/794815/?utm_campaign=794815&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
