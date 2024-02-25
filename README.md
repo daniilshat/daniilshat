@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили интерактивное руководство по работе со SwiftUI](https://habr.com/ru/news/796041/?utm_campaign=796041&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество KDE представило пятое поколение ноутбуков Slimbook](https://habr.com/ru/news/795973/?utm_campaign=795973&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains запустила в своих IDE бета-тест нового терминала](https://habr.com/ru/news/795747/?utm_campaign=795747&utm_source=habrahabr&utm_medium=rss)
 - [Google представила открытые языковые модели Gemma](https://habr.com/ru/news/795401/?utm_campaign=795401&utm_source=habrahabr&utm_medium=rss)
 - [В Signal теперь можно использовать никнеймы вместо номеров телефонов](https://habr.com/ru/news/795371/?utm_campaign=795371&utm_source=habrahabr&utm_medium=rss)
-- [На macOS вышло приложение JuxtaCode для анализа истории кода](https://habr.com/ru/news/795353/?utm_campaign=795353&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
