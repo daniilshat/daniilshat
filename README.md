@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили обновление Reor — ИИ-заметочника с функцией локального запуска ML-моделей](https://habr.com/ru/news/796425/?utm_campaign=796425&utm_source=habrahabr&utm_medium=rss)
 - [NormCap — приложение для распознавания и копирования текста на экране](https://habr.com/ru/news/796383/?utm_campaign=796383&utm_source=habrahabr&utm_medium=rss)
 - [Илон Маск опубликовал фотографии первого сервера DGX-1, который Nvidia поставила OpenAI](https://habr.com/ru/news/796375/?utm_campaign=796375&utm_source=habrahabr&utm_medium=rss)
 - [Исследование Copyleaks: 60% ответов GPT-3.5 содержат плагиат](https://habr.com/ru/news/796343/?utm_campaign=796343&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году Roblox выплатила сторонним авторам игр 740 млн долларов](https://habr.com/ru/news/796205/?utm_campaign=796205&utm_source=habrahabr&utm_medium=rss)
-- [Intel открыла код OSPRay Studio — приложения для интерактивной визуализации и трассировки лучей](https://habr.com/ru/news/796131/?utm_campaign=796131&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
