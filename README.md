@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В 2023 году Roblox выплатила сторонним авторам игр 740 млн долларов](https://habr.com/ru/news/796205/?utm_campaign=796205&utm_source=habrahabr&utm_medium=rss)
 - [Intel открыла код OSPRay Studio — приложения для интерактивной визуализации и трассировки лучей](https://habr.com/ru/news/796131/?utm_campaign=796131&utm_source=habrahabr&utm_medium=rss)
 - [Nvidia представила приложение для ПК, которое объединяет несколько утилит для управления видеокартами](https://habr.com/ru/news/796053/?utm_campaign=796053&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили интерактивное руководство по работе со SwiftUI](https://habr.com/ru/news/796041/?utm_campaign=796041&utm_source=habrahabr&utm_medium=rss)
 - [Сообщество KDE представило пятое поколение ноутбуков Slimbook](https://habr.com/ru/news/795973/?utm_campaign=795973&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains запустила в своих IDE бета-тест нового терминала](https://habr.com/ru/news/795747/?utm_campaign=795747&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
