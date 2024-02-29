@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запустила бесплатный курс «Генеративный ИИ для начинающих»](https://habr.com/ru/news/797317/?utm_campaign=797317&utm_source=habrahabr&utm_medium=rss)
+- [Исследование: на GitHub сейчас более 100 тыс. заражённых репозиториев, мимикрирующих под популярные проекты](https://habr.com/ru/news/797313/?utm_campaign=797313&utm_source=habrahabr&utm_medium=rss)
 - [Инженер заменил порт Lightning в AirPods Max на USB-C](https://habr.com/ru/news/797187/?utm_campaign=797187&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил RecurseChat — приложения для локального запуска LLM на macOS](https://habr.com/ru/news/797153/?utm_campaign=797153&utm_source=habrahabr&utm_medium=rss)
 - [На сайте JetBrains появилась страница SpacePort — оркестратора удалённой разработки](https://habr.com/ru/news/797021/?utm_campaign=797021&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи обнаружили, что GitHub Copilot генерирует уязвимый код](https://habr.com/ru/news/796733/?utm_campaign=796733&utm_source=habrahabr&utm_medium=rss)
-- [Релиз React Print — инструмента для создания PDF-файлов с использованием React и TypeScript](https://habr.com/ru/news/796591/?utm_campaign=796591&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
