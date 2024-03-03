@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Vortex — библиотека для создания эффекта частиц на SwiftUI](https://habr.com/ru/news/797791/?utm_campaign=797791&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: цензуру языковых моделей можно обойти с помощью ASCII-арта](https://habr.com/ru/news/797737/?utm_campaign=797737&utm_source=habrahabr&utm_medium=rss)
 - [В 2023 году пользователи из РФ потратили в App Store 172 млн долларов](https://habr.com/ru/news/797505/?utm_campaign=797505&utm_source=habrahabr&utm_medium=rss)
 - [В 2024 году выяснилось, что ПО многих крупных IT-компаний всё ещё не может корректно обрабатывать дату 29 февраля](https://habr.com/ru/news/797417/?utm_campaign=797417&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустила бесплатный курс «Генеративный ИИ для начинающих»](https://habr.com/ru/news/797317/?utm_campaign=797317&utm_source=habrahabr&utm_medium=rss)
-- [Исследование: на GitHub сейчас более 100 тыс. заражённых репозиториев, мимикрирующих под популярные проекты](https://habr.com/ru/news/797313/?utm_campaign=797313&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
