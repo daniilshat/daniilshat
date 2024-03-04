@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Valmond представила механическую клавиатуру с сенсорным дисплеем](https://habr.com/ru/news/798065/?utm_campaign=798065&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали сетевого червя, который распространяется с помощью генеративных ИИ-сервисов](https://habr.com/ru/news/797989/?utm_campaign=797989&utm_source=habrahabr&utm_medium=rss)
 - [Compose Multiplatform 1.6.0: API для тестирования интерфейса и доступность на iOS](https://habr.com/ru/news/797865/?utm_campaign=797865&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Vortex — библиотека для создания эффекта частиц на SwiftUI](https://habr.com/ru/news/797791/?utm_campaign=797791&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: цензуру языковых моделей можно обойти с помощью ASCII-арта](https://habr.com/ru/news/797737/?utm_campaign=797737&utm_source=habrahabr&utm_medium=rss)
-- [В 2023 году пользователи из РФ потратили в App Store 172 млн долларов](https://habr.com/ru/news/797505/?utm_campaign=797505&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
