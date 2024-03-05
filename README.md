@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Puter — браузерной среды рабочего стола](https://habr.com/ru/news/798321/?utm_campaign=798321&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Supermaven — нейросети для генерации кода с контекстным окном 300 тыс. токенов](https://habr.com/ru/news/798297/?utm_campaign=798297&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» выпустил большое обновление Алисы и умных колонок](https://habr.com/ru/news/798261/?utm_campaign=798261&utm_source=habrahabr&utm_medium=rss)
 - [Издание N + 1 опубликовало результаты первого исследования опенсорса в России](https://habr.com/ru/news/798195/?utm_campaign=798195&utm_source=habrahabr&utm_medium=rss)
 - [Valmond представила механическую клавиатуру с сенсорным дисплеем](https://habr.com/ru/news/798065/?utm_campaign=798065&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи показали сетевого червя, который распространяется с помощью генеративных ИИ-сервисов](https://habr.com/ru/news/797989/?utm_campaign=797989&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
