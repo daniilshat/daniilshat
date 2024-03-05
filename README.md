@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [«Яндекс» выпустил большое обновление Алисы и умных колонок](https://habr.com/ru/news/798261/?utm_campaign=798261&utm_source=habrahabr&utm_medium=rss)
 - [Издание N + 1 опубликовало результаты первого исследования опенсорса в России](https://habr.com/ru/news/798195/?utm_campaign=798195&utm_source=habrahabr&utm_medium=rss)
 - [Valmond представила механическую клавиатуру с сенсорным дисплеем](https://habr.com/ru/news/798065/?utm_campaign=798065&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи показали сетевого червя, который распространяется с помощью генеративных ИИ-сервисов](https://habr.com/ru/news/797989/?utm_campaign=797989&utm_source=habrahabr&utm_medium=rss)
 - [Compose Multiplatform 1.6.0: API для тестирования интерфейса и доступность на iOS](https://habr.com/ru/news/797865/?utm_campaign=797865&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Vortex — библиотека для создания эффекта частиц на SwiftUI](https://habr.com/ru/news/797791/?utm_campaign=797791&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
