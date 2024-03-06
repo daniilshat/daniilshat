@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google представила новый движок Text-To-Speech для Wear OS](https://habr.com/ru/news/798395/?utm_campaign=798395&utm_source=habrahabr&utm_medium=rss)
+- [В «Шедевруме» появилась возможность редактировать изображения по текстовому запросу с помощью нейросети YandexART](https://habr.com/ru/news/798377/?utm_campaign=798377&utm_source=habrahabr&utm_medium=rss)
 - [Вышла iOS 17.4 с поддержкой сторонних магазинов приложений в Европе](https://habr.com/ru/news/798327/?utm_campaign=798327&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Puter — браузерной среды рабочего стола](https://habr.com/ru/news/798321/?utm_campaign=798321&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз Supermaven — нейросети для генерации кода с контекстным окном 300 тыс. токенов](https://habr.com/ru/news/798297/?utm_campaign=798297&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» выпустил большое обновление Алисы и умных колонок](https://habr.com/ru/news/798261/?utm_campaign=798261&utm_source=habrahabr&utm_medium=rss)
-- [Издание N + 1 опубликовало результаты первого исследования опенсорса в России](https://habr.com/ru/news/798195/?utm_campaign=798195&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
