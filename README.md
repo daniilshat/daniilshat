@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Исследователи: профессия промпт-инженера умерла, не успев появиться](https://habr.com/ru/news/798807/?utm_campaign=798807&utm_source=habrahabr&utm_medium=rss)
 - [Организация Euro NCAP просит автопроизводителей вернуть физические кнопки в машины](https://habr.com/ru/news/798745/?utm_campaign=798745&utm_source=habrahabr&utm_medium=rss)
 - [Apple упростила правила создания сторонних магазинов приложений после критики со стороны разработчиков](https://habr.com/ru/news/798581/?utm_campaign=798581&utm_source=habrahabr&utm_medium=rss)
 - [Вышло обновление движка рендеринга 2D-графики PixiJS](https://habr.com/ru/news/798557/?utm_campaign=798557&utm_source=habrahabr&utm_medium=rss)
 - [Google представила новый движок Text-To-Speech для Wear OS](https://habr.com/ru/news/798395/?utm_campaign=798395&utm_source=habrahabr&utm_medium=rss)
-- [В «Шедевруме» появилась возможность редактировать изображения по текстовому запросу с помощью нейросети YandexART](https://habr.com/ru/news/798377/?utm_campaign=798377&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
