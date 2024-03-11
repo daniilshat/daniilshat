@@ -60,9 +60,9 @@ CSS    6 mins          █████▒░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft выпустила бесплатный курс Security-101 для изучения основ кибербезопасности](https://habr.com/ru/news/799359/?utm_campaign=799359&utm_source=habrahabr&utm_medium=rss)
 - [Juno Computers анонсировала ноутбук Neptune 17 v6 с RTX 4090 и Ubuntu](https://habr.com/ru/news/799315/?utm_campaign=799315&utm_source=habrahabr&utm_medium=rss)
 - [Опрос: люди плохо отличают видео, сгенерированные с помощью нейросети Sora, от настоящих](https://habr.com/ru/news/799293/?utm_campaign=799293&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи: профессия промпт-инженера умерла, не успев появиться](https://habr.com/ru/news/798807/?utm_campaign=798807&utm_source=habrahabr&utm_medium=rss)
 - [Организация Euro NCAP просит автопроизводителей вернуть физические кнопки в машины](https://habr.com/ru/news/798745/?utm_campaign=798745&utm_source=habrahabr&utm_medium=rss)
-- [Apple упростила правила создания сторонних магазинов приложений после критики со стороны разработчиков](https://habr.com/ru/news/798581/?utm_campaign=798581&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
