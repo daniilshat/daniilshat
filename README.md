@@ -60,9 +60,9 @@ CSS    6 mins          █████▒░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Для iPad вышло приложение Muse Pro, позволяющее рисовать с помощью ИИ в реальном времени](https://habr.com/ru/news/799431/?utm_campaign=799431&utm_source=habrahabr&utm_medium=rss)
 - [CNBC: руководители компаний тратят деньги на ИИ-проекты, но только 38% из них обучают сотрудников работе с нейросетями](https://habr.com/ru/news/799423/?utm_campaign=799423&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft выпустила бесплатный курс Security-101 для изучения основ кибербезопасности](https://habr.com/ru/news/799359/?utm_campaign=799359&utm_source=habrahabr&utm_medium=rss)
 - [Juno Computers анонсировала ноутбук Neptune 17 v6 с RTX 4090 и Ubuntu](https://habr.com/ru/news/799315/?utm_campaign=799315&utm_source=habrahabr&utm_medium=rss)
 - [Опрос: люди плохо отличают видео, сгенерированные с помощью нейросети Sora, от настоящих](https://habr.com/ru/news/799293/?utm_campaign=799293&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи: профессия промпт-инженера умерла, не успев появиться](https://habr.com/ru/news/798807/?utm_campaign=798807&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
