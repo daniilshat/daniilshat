@@ -60,9 +60,9 @@ CSS    21 mins         █████▓░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Discord открыл возможность создавать игры и приложения, которые работают внутри платформы](https://habr.com/ru/news/800117/?utm_campaign=800117&utm_source=habrahabr&utm_medium=rss)
 - [Apple: пользователи из ЕС смогут устанавливать iOS-приложения с веб-сайтов](https://habr.com/ru/news/799719/?utm_campaign=799719&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI открыла код Transformer Debugger — отладчика для моделей машинного обучения](https://habr.com/ru/news/799707/?utm_campaign=799707&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз WinterJS — среды выполнения JavaScript](https://habr.com/ru/news/799671/?utm_campaign=799671&utm_source=habrahabr&utm_medium=rss)
 - [Исследование: современные VR-гарнитуры можно взломать с помощью атаки типа Inception](https://habr.com/ru/news/799649/?utm_campaign=799649&utm_source=habrahabr&utm_medium=rss)
-- [Apple показала своё представление модернизации здравоохранения с помощью Vision Pro](https://habr.com/ru/news/799607/?utm_campaign=799607&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
