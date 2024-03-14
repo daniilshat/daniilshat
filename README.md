@@ -60,9 +60,9 @@ CSS    21 mins         █████▓░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft запустит Copilot for Security для специалистов в области кибербезопасности](https://habr.com/ru/news/800351/?utm_campaign=800351&utm_source=habrahabr&utm_medium=rss)
 - [В конце апреля Epic Games вводит новый тариф для Unreal Engine 5.4](https://habr.com/ru/news/800307/?utm_campaign=800307&utm_source=habrahabr&utm_medium=rss)
 - [Владельцам TikTok придётся продать компанию, иначе платформу запретят на территории США](https://habr.com/ru/news/800125/?utm_campaign=800125&utm_source=habrahabr&utm_medium=rss)
 - [Discord открыл возможность создавать игры и приложения, которые работают внутри платформы](https://habr.com/ru/news/800117/?utm_campaign=800117&utm_source=habrahabr&utm_medium=rss)
 - [Apple: пользователи из ЕС смогут устанавливать iOS-приложения с веб-сайтов](https://habr.com/ru/news/799719/?utm_campaign=799719&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI открыла код Transformer Debugger — отладчика для моделей машинного обучения](https://habr.com/ru/news/799707/?utm_campaign=799707&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
