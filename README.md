@@ -60,9 +60,9 @@ CSS    15 mins         █████▒░░░░░░░░░░░░░
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Игры для консоли Playdate теперь можно разрабатывать на языке программирования Swift](https://habr.com/ru/news/801015/?utm_campaign=801015&utm_source=habrahabr&utm_medium=rss)
 - [Китайский производитель раньше Apple выпустил AirPods с экраном в кейсе](https://habr.com/ru/news/800911/?utm_campaign=800911&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains подвела итоги своей деятельности на начало 2024 года](https://habr.com/ru/news/800581/?utm_campaign=800581&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft запустит Copilot for Security для специалистов в области кибербезопасности](https://habr.com/ru/news/800351/?utm_campaign=800351&utm_source=habrahabr&utm_medium=rss)
 - [В конце апреля Epic Games вводит новый тариф для Unreal Engine 5.4](https://habr.com/ru/news/800307/?utm_campaign=800307&utm_source=habrahabr&utm_medium=rss)
-- [Владельцам TikTok придётся продать компанию, иначе платформу запретят на территории США](https://habr.com/ru/news/800125/?utm_campaign=800125&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
