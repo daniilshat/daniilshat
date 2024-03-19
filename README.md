@@ -59,9 +59,9 @@ HTML   5 mins          ███████████████████
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia представила Blackwell B200 — «самый мощный ИИ-чип в мире»](https://habr.com/ru/news/801279/?utm_campaign=801279&utm_source=habrahabr&utm_medium=rss)
 - [Google пригласила разработчиков на I/O 2024 головоломкой Break the loop](https://habr.com/ru/news/801133/?utm_campaign=801133&utm_source=habrahabr&utm_medium=rss)
 - [Sony столкнулась с низкими продажами PlayStation VR 2](https://habr.com/ru/news/801043/?utm_campaign=801043&utm_source=habrahabr&utm_medium=rss)
 - [Игры для консоли Playdate теперь можно разрабатывать на языке программирования Swift](https://habr.com/ru/news/801015/?utm_campaign=801015&utm_source=habrahabr&utm_medium=rss)
 - [Китайский производитель раньше Apple выпустил AirPods с экраном в кейсе](https://habr.com/ru/news/800911/?utm_campaign=800911&utm_source=habrahabr&utm_medium=rss)
-- [JetBrains подвела итоги своей деятельности на начало 2024 года](https://habr.com/ru/news/800581/?utm_campaign=800581&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
