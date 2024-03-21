@@ -61,9 +61,9 @@ Other   0 secs          ▒░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google DeepMind показала ИИ-инструмент для анализа футбольной тактики](https://habr.com/ru/news/801859/?utm_campaign=801859&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила портал с информацией о своих устройствах](https://habr.com/ru/news/801833/?utm_campaign=801833&utm_source=habrahabr&utm_medium=rss)
 - [Производительность нового MacBook Air падает в два раза, если закрыть крышку](https://habr.com/ru/news/801789/?utm_campaign=801789&utm_source=habrahabr&utm_medium=rss)
 - [Flipper Zero ответила на запрет продажи устройства в Канаде, показав, как перехватить радиосигнал с помощью куска кабеля](https://habr.com/ru/news/801611/?utm_campaign=801611&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Docker рассказали про сервисы Nvidia AI, которые доступны разработчикам](https://habr.com/ru/news/801523/?utm_campaign=801523&utm_source=habrahabr&utm_medium=rss)
-- [Nvidia представила Blackwell B200 — «самый мощный ИИ-чип в мире»](https://habr.com/ru/news/801279/?utm_campaign=801279&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
