@@ -63,9 +63,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз генератора статических сайтов VitePress 1.0](https://habr.com/ru/news/802893/?utm_campaign=802893&utm_source=habrahabr&utm_medium=rss)
 - [В блоге Apple рассказали про Adwaita — фреймворк для разработки GNOME-приложений на Swift](https://habr.com/ru/news/802837/?utm_campaign=802837&utm_source=habrahabr&utm_medium=rss)
 - [Для Apple TV анонсировали джейлбрейк](https://habr.com/ru/news/802825/?utm_campaign=802825&utm_source=habrahabr&utm_medium=rss)
 - [Блогер разработал устройство, объединяющее в себе док-станцию для iPad и Mac Studio](https://habr.com/ru/news/802709/?utm_campaign=802709&utm_source=habrahabr&utm_medium=rss)
 - [Volley представила теннисную пушку с искусственным интеллектом, которая имитирует реальную игру](https://habr.com/ru/news/802677/?utm_campaign=802677&utm_source=habrahabr&utm_medium=rss)
-- [Министерство юстиции США подало в суд на Apple, обвинив в монополизации рынка](https://habr.com/ru/news/802151/?utm_campaign=802151&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
