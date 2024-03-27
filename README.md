@@ -63,9 +63,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Pay перестанет работать в России](https://habr.com/ru/news/803205/?utm_campaign=803205&utm_source=habrahabr&utm_medium=rss)
 - [Unity выпустила многопользовательскую демку Megacity Metro](https://habr.com/ru/news/803155/?utm_campaign=803155&utm_source=habrahabr&utm_medium=rss)
 - [«Веб-сервер» обновила Angie Ingress Controller &lpar;ANIC&rpar;](https://habr.com/ru/news/803115/?utm_campaign=803115&utm_source=habrahabr&utm_medium=rss)
 - [Эксперты iFixit удовлетворены инструментами диагностики от Apple](https://habr.com/ru/news/803083/?utm_campaign=803083&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся релиз генератора статических сайтов VitePress 1.0](https://habr.com/ru/news/802893/?utm_campaign=802893&utm_source=habrahabr&utm_medium=rss)
-- [В блоге Apple рассказали про Adwaita — фреймворк для разработки GNOME-приложений на Swift](https://habr.com/ru/news/802837/?utm_campaign=802837&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
