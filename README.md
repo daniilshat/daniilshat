@@ -61,9 +61,9 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Suno представила третью версию нейросети для генерации музыки](https://habr.com/ru/news/803785/?utm_campaign=803785&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнер разработал Tiles — устройство, которое возвращает музыку в физический мир](https://habr.com/ru/news/803771/?utm_campaign=803771&utm_source=habrahabr&utm_medium=rss)
 - [Adobe представила GenStudio — ИИ-платформу для маркетинга](https://habr.com/ru/news/803759/?utm_campaign=803759&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил приложение, с помощью которого можно следить за ходом галактической войны в Helldivers 2](https://habr.com/ru/news/803407/?utm_campaign=803407&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила оптимизированную Arm-версию браузера Chrome](https://habr.com/ru/news/803401/?utm_campaign=803401&utm_source=habrahabr&utm_medium=rss)
-- [Samsung Pay перестанет работать в России](https://habr.com/ru/news/803205/?utm_campaign=803205&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
