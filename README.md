@@ -61,9 +61,9 @@ Python     0 secs          ░░░░░░░░░░░░░░░░░�
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Adobe представила GenStudio — ИИ-платформу для маркетинга](https://habr.com/ru/news/803759/?utm_campaign=803759&utm_source=habrahabr&utm_medium=rss)
 - [Разработчик выпустил приложение, с помощью которого можно следить за ходом галактической войны в Helldivers 2](https://habr.com/ru/news/803407/?utm_campaign=803407&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила оптимизированную Arm-версию браузера Chrome](https://habr.com/ru/news/803401/?utm_campaign=803401&utm_source=habrahabr&utm_medium=rss)
 - [Samsung Pay перестанет работать в России](https://habr.com/ru/news/803205/?utm_campaign=803205&utm_source=habrahabr&utm_medium=rss)
 - [Unity выпустила многопользовательскую демку Megacity Metro](https://habr.com/ru/news/803155/?utm_campaign=803155&utm_source=habrahabr&utm_medium=rss)
-- [«Веб-сервер» обновила Angie Ingress Controller &lpar;ANIC&rpar;](https://habr.com/ru/news/803115/?utm_campaign=803115&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
