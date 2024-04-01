@@ -59,7 +59,7 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
-- [MacPaw выпустила приложение-клинер для iPhone](https://habr.com/ru/news/804583/?utm_campaign=804583&utm_source=habrahabr&utm_medium=rss)
+- [ChatGPT теперь доступен без регистрации](https://habr.com/ru/news/804627/?utm_campaign=804627&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила руководство по Swift и SwiftUI](https://habr.com/ru/news/803929/?utm_campaign=803929&utm_source=habrahabr&utm_medium=rss)
 - [8BitDo представила механическую клавиатуру в стиле Commodore 64](https://habr.com/ru/news/803907/?utm_campaign=803907&utm_source=habrahabr&utm_medium=rss)
 - [Инженеров Vision Pro перевели на проект складного iPhone, который отложили до 2027 года](https://habr.com/ru/news/803829/?utm_campaign=803829&utm_source=habrahabr&utm_medium=rss)
