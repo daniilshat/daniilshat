@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Microsoft Edge Canary для Android можно устанавливать любые браузерные расширения](https://habr.com/ru/news/804809/?utm_campaign=804809&utm_source=habrahabr&utm_medium=rss)
 - [В Англии пришлось поставить охрану на свалке из-за охотников за жёстким диском с биткоинами](https://habr.com/ru/news/804793/?utm_campaign=804793&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Mojo вышел в опенсорс](https://habr.com/ru/news/804637/?utm_campaign=804637&utm_source=habrahabr&utm_medium=rss)
 - [ChatGPT теперь доступен без регистрации](https://habr.com/ru/news/804627/?utm_campaign=804627&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила руководство по Swift и SwiftUI](https://habr.com/ru/news/803929/?utm_campaign=803929&utm_source=habrahabr&utm_medium=rss)
-- [8BitDo представила механическую клавиатуру в стиле Commodore 64](https://habr.com/ru/news/803907/?utm_campaign=803907&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
