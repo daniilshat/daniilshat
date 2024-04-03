@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Telegram будет предупреждать пользователей без подписки о сниженной скорости загрузки](https://habr.com/ru/news/804963/?utm_campaign=804963&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры опубликовали проект бюджетной робо-руки GELLO](https://habr.com/ru/news/804925/?utm_campaign=804925&utm_source=habrahabr&utm_medium=rss)
 - [В Microsoft Edge Canary для Android можно устанавливать любые браузерные расширения](https://habr.com/ru/news/804809/?utm_campaign=804809&utm_source=habrahabr&utm_medium=rss)
 - [В Англии пришлось поставить охрану на свалке из-за охотников за жёстким диском с биткоинами](https://habr.com/ru/news/804793/?utm_campaign=804793&utm_source=habrahabr&utm_medium=rss)
 - [Язык программирования Mojo вышел в опенсорс](https://habr.com/ru/news/804637/?utm_campaign=804637&utm_source=habrahabr&utm_medium=rss)
-- [ChatGPT теперь доступен без регистрации](https://habr.com/ru/news/804627/?utm_campaign=804627&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
