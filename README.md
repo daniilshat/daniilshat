@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI обновила API для файнтюнинга GPT](https://habr.com/ru/news/806005/?utm_campaign=806005&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнеры представили Nuca — ИИ-фотокамеру, которая раздевает людей на снимках](https://habr.com/ru/news/805933/?utm_campaign=805933&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI представила обновление модели Stable Audio 2.0](https://habr.com/ru/news/805929/?utm_campaign=805929&utm_source=habrahabr&utm_medium=rss)
 - [Telegram будет предупреждать пользователей без подписки о сниженной скорости загрузки](https://habr.com/ru/news/804963/?utm_campaign=804963&utm_source=habrahabr&utm_medium=rss)
 - [Инженеры опубликовали проект бюджетной робо-руки GELLO](https://habr.com/ru/news/804925/?utm_campaign=804925&utm_source=habrahabr&utm_medium=rss)
-- [В Microsoft Edge Canary для Android можно устанавливать любые браузерные расширения](https://habr.com/ru/news/804809/?utm_campaign=804809&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
