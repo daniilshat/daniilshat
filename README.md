@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Злоумышленники воруют данные пользователей Facebook** с помощью профилей, замаскированных под аккаунты ИИ-сервисов](https://habr.com/ru/news/806273/?utm_campaign=806273&utm_source=habrahabr&utm_medium=rss)
 - [Spotify тестирует ИИ-плейлисты](https://habr.com/ru/news/806143/?utm_campaign=806143&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI обновила API для файнтюнинга GPT](https://habr.com/ru/news/806005/?utm_campaign=806005&utm_source=habrahabr&utm_medium=rss)
 - [Дизайнеры представили Nuca — ИИ-фотокамеру, которая раздевает людей на снимках](https://habr.com/ru/news/805933/?utm_campaign=805933&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI представила обновление модели Stable Audio 2.0](https://habr.com/ru/news/805929/?utm_campaign=805929&utm_source=habrahabr&utm_medium=rss)
-- [Telegram будет предупреждать пользователей без подписки о сниженной скорости загрузки](https://habr.com/ru/news/804963/?utm_campaign=804963&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
