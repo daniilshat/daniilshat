@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Автопилот Tesla спас жизнь мужчине со сломанной инсулиновой помпой, быстро доставив его до больницы](https://habr.com/ru/news/807303/?utm_campaign=807303&utm_source=habrahabr&utm_medium=rss)
 - [Модель GPT-4 Turbo стала доступна пользователям ChatGPT Plus](https://habr.com/ru/news/807269/?utm_campaign=807269&utm_source=habrahabr&utm_medium=rss)
 - [OpenAI уволила двух исследователей из-за подозрений в утечке корпоративных данных](https://habr.com/ru/news/807257/?utm_campaign=807257&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили бенчмарк для языковых моделей, в котором нейросетям надо играть в Street Fighter III](https://habr.com/ru/news/807207/?utm_campaign=807207&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo запускает подписку Privacy Pro с продвинутыми функциями безопасности](https://habr.com/ru/news/807185/?utm_campaign=807185&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представила Алису нового поколения и улучшенную Алису Про](https://habr.com/ru/news/806703/?utm_campaign=806703&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
