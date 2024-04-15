@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Telegram добавили редактор стикеров](https://habr.com/ru/news/807905/?utm_campaign=807905&utm_source=habrahabr&utm_medium=rss)
 - [SpaceHopper протестировала трёхногого робота, который сможет прыгать по астероидам и изучать их](https://habr.com/ru/news/807865/?utm_campaign=807865&utm_source=habrahabr&utm_medium=rss)
 - [Blackmagic анонсировала Micro Color — контроллер DaVinci Resolve для iPad](https://habr.com/ru/news/807789/?utm_campaign=807789&utm_source=habrahabr&utm_medium=rss)
 - [Автопилот Tesla спас жизнь мужчине со сломанной инсулиновой помпой, быстро доставив его до больницы](https://habr.com/ru/news/807303/?utm_campaign=807303&utm_source=habrahabr&utm_medium=rss)
 - [Модель GPT-4 Turbo стала доступна пользователям ChatGPT Plus](https://habr.com/ru/news/807269/?utm_campaign=807269&utm_source=habrahabr&utm_medium=rss)
-- [OpenAI уволила двух исследователей из-за подозрений в утечке корпоративных данных](https://habr.com/ru/news/807257/?utm_campaign=807257&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
