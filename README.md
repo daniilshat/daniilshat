@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google исправила ошибку, из-за которой с помощью Android TV можно было получить доступ к аккаунту пользователя](https://habr.com/ru/news/811767/?utm_campaign=811767&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представил «Нейро» — поисковик на базе нейросетей](https://habr.com/ru/news/808095/?utm_campaign=808095&utm_source=habrahabr&utm_medium=rss)
 - [В Telegram добавили редактор стикеров](https://habr.com/ru/news/807905/?utm_campaign=807905&utm_source=habrahabr&utm_medium=rss)
 - [SpaceHopper протестировала трёхногого робота, который сможет прыгать по астероидам и изучать их](https://habr.com/ru/news/807865/?utm_campaign=807865&utm_source=habrahabr&utm_medium=rss)
 - [Blackmagic анонсировала Micro Color — контроллер DaVinci Resolve для iPad](https://habr.com/ru/news/807789/?utm_campaign=807789&utm_source=habrahabr&utm_medium=rss)
-- [Автопилот Tesla спас жизнь мужчине со сломанной инсулиновой помпой, быстро доставив его до больницы](https://habr.com/ru/news/807303/?utm_campaign=807303&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
