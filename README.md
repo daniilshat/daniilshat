@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google закрывает доступ к Google Fit API, разработчиков просят перейти н Android Health](https://habr.com/ru/news/812627/?utm_campaign=812627&utm_source=habrahabr&utm_medium=rss)
 - [Генеративные нейросети поменяли подходы в обучении программированию](https://habr.com/ru/news/812535/?utm_campaign=812535&utm_source=habrahabr&utm_medium=rss)
 - [Siri в HomePod из-за ошибки не может сообщить актуальное время](https://habr.com/ru/news/812047/?utm_campaign=812047&utm_source=habrahabr&utm_medium=rss)
 - [В Google Play появился значок для маркировки правительственных приложений](https://habr.com/ru/news/812007/?utm_campaign=812007&utm_source=habrahabr&utm_medium=rss)
 - [Apple работает над ИИ-функциями в Safari](https://habr.com/ru/news/811969/?utm_campaign=811969&utm_source=habrahabr&utm_medium=rss)
-- [Anthropic выпустила мобильное приложение для Claude](https://habr.com/ru/news/811789/?utm_campaign=811789&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
