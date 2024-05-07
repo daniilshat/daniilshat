@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google представила смартфон Pixel 8a](https://habr.com/ru/news/813001/?utm_campaign=813001&utm_source=habrahabr&utm_medium=rss)
 - [Итоги презентации Apple: новые iPad Air, iPad Pro, Apple Pencil и чип M4](https://habr.com/ru/news/812967/?utm_campaign=812967&utm_source=habrahabr&utm_medium=rss)
 - [Apple запрещает использовать модели реалистичного оружия в приложениях для Vision Pro](https://habr.com/ru/news/812651/?utm_campaign=812651&utm_source=habrahabr&utm_medium=rss)
 - [Google закрывает доступ к Google Fit API, разработчиков просят перейти на Android Health](https://habr.com/ru/news/812627/?utm_campaign=812627&utm_source=habrahabr&utm_medium=rss)
 - [Генеративные нейросети поменяли подходы в обучении программированию](https://habr.com/ru/news/812535/?utm_campaign=812535&utm_source=habrahabr&utm_medium=rss)
-- [Siri в HomePod из-за ошибки не может сообщить актуальное время](https://habr.com/ru/news/812047/?utm_campaign=812047&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
