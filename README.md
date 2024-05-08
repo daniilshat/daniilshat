@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple предлагает четыре Apple Pencil с разными опциями и с поддержкой разных iPad](https://habr.com/ru/news/813189/?utm_campaign=813189&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся бета-релиз Raspberry Pi Connect — приложение для удалённого доступа к одноплатнику](https://habr.com/ru/news/813127/?utm_campaign=813127&utm_source=habrahabr&utm_medium=rss)
 - [Google представила смартфон Pixel 8a](https://habr.com/ru/news/813001/?utm_campaign=813001&utm_source=habrahabr&utm_medium=rss)
 - [Итоги презентации Apple: новые iPad Air, iPad Pro, Apple Pencil и чип M4](https://habr.com/ru/news/812967/?utm_campaign=812967&utm_source=habrahabr&utm_medium=rss)
 - [Apple запрещает использовать модели реалистичного оружия в приложениях для Vision Pro](https://habr.com/ru/news/812651/?utm_campaign=812651&utm_source=habrahabr&utm_medium=rss)
-- [Google закрывает доступ к Google Fit API, разработчиков просят перейти на Android Health](https://habr.com/ru/news/812627/?utm_campaign=812627&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
