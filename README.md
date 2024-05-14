@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Состоялся релиз Gamma — эмулятора PS1 для iPhone и iPad](https://habr.com/ru/news/814089/?utm_campaign=814089&utm_source=habrahabr&utm_medium=rss)
 - [Red Hat объявила о выпуске дистрибутива RHEL AI для ML-разработчиков](https://habr.com/ru/news/813983/?utm_campaign=813983&utm_source=habrahabr&utm_medium=rss)
 - [Apple предлагает четыре Apple Pencil с разными опциями и с поддержкой разных iPad](https://habr.com/ru/news/813189/?utm_campaign=813189&utm_source=habrahabr&utm_medium=rss)
 - [Состоялся бета-релиз Raspberry Pi Connect — приложение для удалённого доступа к одноплатнику](https://habr.com/ru/news/813127/?utm_campaign=813127&utm_source=habrahabr&utm_medium=rss)
 - [Google представила смартфон Pixel 8a](https://habr.com/ru/news/813001/?utm_campaign=813001&utm_source=habrahabr&utm_medium=rss)
-- [Итоги презентации Apple: новые iPad Air, iPad Pro, Apple Pencil и чип M4](https://habr.com/ru/news/812967/?utm_campaign=812967&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
