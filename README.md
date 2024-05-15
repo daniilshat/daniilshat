@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [RetroArch — ещё один эмулятор консолей для iOS](https://habr.com/ru/news/814659/?utm_campaign=814659&utm_source=habrahabr&utm_medium=rss)
 - [Для iOS вышел PPSSPP — эмулятор PlayStation Portable](https://habr.com/ru/news/814641/?utm_campaign=814641&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi представила M.2 Hat+ — плату для подключения NVMe-накопителей](https://habr.com/ru/news/814575/?utm_campaign=814575&utm_source=habrahabr&utm_medium=rss)
 - [Мощность iPad Pro на M4 сопоставима с базовым MacBook Pro на M3 Pro](https://habr.com/ru/news/814321/?utm_campaign=814321&utm_source=habrahabr&utm_medium=rss)
 - [Apple выпустила рассылку Hello Developer за май](https://habr.com/ru/news/814259/?utm_campaign=814259&utm_source=habrahabr&utm_medium=rss)
-- [Сервис Claude стал доступен в Европе](https://habr.com/ru/news/814177/?utm_campaign=814177&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
