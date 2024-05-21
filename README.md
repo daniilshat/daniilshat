@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft представила Copilot Plus PC — спецификацию для ПК со встроенным искусственным интеллектом](https://habr.com/ru/news/816061/?utm_campaign=816061&utm_source=habrahabr&utm_medium=rss)
 - [Apple исправила ошибку iOS, которая восстанавливала на устройствах давно удалённые фото](https://habr.com/ru/news/815917/?utm_campaign=815917&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft встроит Copilot в Minecraft и другие игры для Xbox и ПК](https://habr.com/ru/news/815789/?utm_campaign=815789&utm_source=habrahabr&utm_medium=rss)
 - [Google выпустила предварительную версию Wear OS 5 для разработчиков](https://habr.com/ru/news/815785/?utm_campaign=815785&utm_source=habrahabr&utm_medium=rss)
 - [Apple Pencil Pro отбрасывает на экран iPad виртуальную тень](https://habr.com/ru/news/815695/?utm_campaign=815695&utm_source=habrahabr&utm_medium=rss)
-- [Вышел Figproxy — плагин, связывающий макет в Figma с платой Arduino](https://habr.com/ru/news/815613/?utm_campaign=815613&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
