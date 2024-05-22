@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft прекратит поддержку VBScript во второй половине 2024 года](https://habr.com/ru/news/816453/?utm_campaign=816453&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft, OpenAI, Google и другие крупные IT-компании заключили соглашение о безопасности ИИ](https://habr.com/ru/news/816441/?utm_campaign=816441&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi выходит на IPO](https://habr.com/ru/news/816421/?utm_campaign=816421&utm_source=habrahabr&utm_medium=rss)
 - [GitHub Copilot теперь поддерживает пользовательские расширения](https://habr.com/ru/news/816065/?utm_campaign=816065&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft представила Copilot Plus PC — спецификацию для ПК со встроенным искусственным интеллектом](https://habr.com/ru/news/816061/?utm_campaign=816061&utm_source=habrahabr&utm_medium=rss)
-- [Apple исправила ошибку iOS, которая восстанавливала на устройствах давно удалённые фото](https://habr.com/ru/news/815917/?utm_campaign=815917&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
