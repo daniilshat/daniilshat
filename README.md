@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Нейросеть от Google советует добавлять клей в сырную пиццу и ежедневно употреблять камни для пищеварения](https://habr.com/ru/news/816871/?utm_campaign=816871&utm_source=habrahabr&utm_medium=rss)
 - [Google начала выпускать ИИ-функции для обработки фотографий для старых смартфонов Pixel](https://habr.com/ru/news/816735/?utm_campaign=816735&utm_source=habrahabr&utm_medium=rss)
 - [Qualcomm работает над обеспечением поддержки Snapdragon X Elite в ядре Linux](https://habr.com/ru/news/816727/?utm_campaign=816727&utm_source=habrahabr&utm_medium=rss)
 - [Acemagic представила ноутбук-трансформер X1 с двумя экранами](https://habr.com/ru/news/816719/?utm_campaign=816719&utm_source=habrahabr&utm_medium=rss)
 - [Microsoft прекратит поддержку VBScript во второй половине 2024 года](https://habr.com/ru/news/816453/?utm_campaign=816453&utm_source=habrahabr&utm_medium=rss)
-- [Microsoft, OpenAI, Google и другие крупные IT-компании заключили соглашение о безопасности ИИ](https://habr.com/ru/news/816441/?utm_campaign=816441&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
