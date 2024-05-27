@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop получит поддержку Windows на Arm](https://habr.com/ru/news/817575/?utm_campaign=817575&utm_source=habrahabr&utm_medium=rss)
 - [В документации Docker появился ИИ-ассистент](https://habr.com/ru/news/817565/?utm_campaign=817565&utm_source=habrahabr&utm_medium=rss)
 - [AMD представила утилиту Radeon Anti-Lag 2 для Counter-Strike 2](https://habr.com/ru/news/817511/?utm_campaign=817511&utm_source=habrahabr&utm_medium=rss)
 - [Власти Великобритании одобрили законопроект, обязывающий IT-компании стать более открытыми к пользователям](https://habr.com/ru/news/817235/?utm_campaign=817235&utm_source=habrahabr&utm_medium=rss)
 - [В Китае разрабатывают Chat Xi PT — чат-бота, обученного на социалистических ценностях](https://habr.com/ru/news/816955/?utm_campaign=816955&utm_source=habrahabr&utm_medium=rss)
-- [Нейросеть от Google советует добавлять клей в сырную пиццу и ежедневно употреблять камни для пищеварения](https://habr.com/ru/news/816871/?utm_campaign=816871&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
