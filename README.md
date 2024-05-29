@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики фотопроекта Halide выпустили Kino — профессиональное iOS-приложение для записи видео](https://habr.com/ru/news/818175/?utm_campaign=818175&utm_source=habrahabr&utm_medium=rss)
 - [JFrog и GitHub объявили о партнёрстве и тесной интеграции исходного кода и бинарных платформ](https://habr.com/ru/news/818171/?utm_campaign=818171&utm_source=habrahabr&utm_medium=rss)
 - [Вышла Repo2txt — утилита для сохранения GitHub-репозиториев в виде текстового файла](https://habr.com/ru/news/818151/?utm_campaign=818151&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила компактную солнечную панель для питания камер видеонаблюдения](https://habr.com/ru/news/817861/?utm_campaign=817861&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Gemini появится в браузере Opera One](https://habr.com/ru/news/817853/?utm_campaign=817853&utm_source=habrahabr&utm_medium=rss)
-- [Docker Desktop получит поддержку Windows на Arm](https://habr.com/ru/news/817575/?utm_campaign=817575&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
