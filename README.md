@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Вышла Repo2txt — утилита для сохранения GitHub-репозиториев в виде текстового файла](https://habr.com/ru/news/818151/?utm_campaign=818151&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила компактную солнечную панель для питания камер видеонаблюдения](https://habr.com/ru/news/817861/?utm_campaign=817861&utm_source=habrahabr&utm_medium=rss)
 - [Чат-бот Gemini появится в браузере Opera One](https://habr.com/ru/news/817853/?utm_campaign=817853&utm_source=habrahabr&utm_medium=rss)
 - [Docker Desktop получит поддержку Windows на Arm](https://habr.com/ru/news/817575/?utm_campaign=817575&utm_source=habrahabr&utm_medium=rss)
 - [В документации Docker появился ИИ-ассистент](https://habr.com/ru/news/817565/?utm_campaign=817565&utm_source=habrahabr&utm_medium=rss)
-- [AMD представила утилиту Radeon Anti-Lag 2 для Counter-Strike 2](https://habr.com/ru/news/817511/?utm_campaign=817511&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
