@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI выпустила Codestral — модель машинного обучения для генерации кода](https://habr.com/ru/news/818503/?utm_campaign=818503&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представила майское обновление «Алисы»](https://habr.com/ru/news/818493/?utm_campaign=818493&utm_source=habrahabr&utm_medium=rss)
 - [VR-камеры Apple снова попали на снимки пользователей](https://habr.com/ru/news/818477/?utm_campaign=818477&utm_source=habrahabr&utm_medium=rss)
 - [Игры Job Simulator и Vacation Simulator вышли для Apple Vision Pro](https://habr.com/ru/news/818455/?utm_campaign=818455&utm_source=habrahabr&utm_medium=rss)
 - [Discord возвращается к игровым корням](https://habr.com/ru/news/818445/?utm_campaign=818445&utm_source=habrahabr&utm_medium=rss)
-- [Блогер показал, как Apple тестирует новые модели iPhone](https://habr.com/ru/news/818353/?utm_campaign=818353&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
