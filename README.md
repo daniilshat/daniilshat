@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Игры Job Simulator и Vacation Simulator вышли для Apple Vision Pro](https://habr.com/ru/news/818455/?utm_campaign=818455&utm_source=habrahabr&utm_medium=rss)
+- [Discord возвращается к игровым корням](https://habr.com/ru/news/818445/?utm_campaign=818445&utm_source=habrahabr&utm_medium=rss)
 - [Блогер показал, как Apple тестирует новые модели iPhone](https://habr.com/ru/news/818353/?utm_campaign=818353&utm_source=habrahabr&utm_medium=rss)
 - [Кастомные чат-боты GPTs стали доступны в бесплатном тарифе ChatGPT](https://habr.com/ru/news/818305/?utm_campaign=818305&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики фотопроекта Halide выпустили Kino — профессиональное iOS-приложение для записи видео](https://habr.com/ru/news/818175/?utm_campaign=818175&utm_source=habrahabr&utm_medium=rss)
-- [JFrog и GitHub объявили о партнёрстве и тесной интеграции исходного кода и бинарных платформ](https://habr.com/ru/news/818171/?utm_campaign=818171&utm_source=habrahabr&utm_medium=rss)
-- [Вышла Repo2txt — утилита для сохранения GitHub-репозиториев в виде текстового файла](https://habr.com/ru/news/818151/?utm_campaign=818151&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
