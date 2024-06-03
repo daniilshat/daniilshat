@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Скетчи Arduino теперь можно запускать одновременно с MicroPython, но только на многоядерных микроконтроллерах](https://habr.com/ru/news/819239/?utm_campaign=819239&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили ToonCrafter — нейросеть для генерации анимационных видео](https://habr.com/ru/news/819185/?utm_campaign=819185&utm_source=habrahabr&utm_medium=rss)
 - [Mistral AI выпустила Codestral — модель машинного обучения для генерации кода](https://habr.com/ru/news/818503/?utm_campaign=818503&utm_source=habrahabr&utm_medium=rss)
 - [«Яндекс» представила майское обновление «Алисы»](https://habr.com/ru/news/818493/?utm_campaign=818493&utm_source=habrahabr&utm_medium=rss)
 - [VR-камеры Apple снова попали на снимки пользователей](https://habr.com/ru/news/818477/?utm_campaign=818477&utm_source=habrahabr&utm_medium=rss)
-- [Игры Job Simulator и Vacation Simulator вышли для Apple Vision Pro](https://habr.com/ru/news/818455/?utm_campaign=818455&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
