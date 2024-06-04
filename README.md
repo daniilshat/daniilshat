@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google начала тестировать функцию Android Device Streaming на базе Firebase](https://habr.com/ru/news/819275/?utm_campaign=819275&utm_source=habrahabr&utm_medium=rss)
 - [Исследователи из Кембриджа протестировали роботизированный шестой палец руки](https://habr.com/ru/news/819267/?utm_campaign=819267&utm_source=habrahabr&utm_medium=rss)
 - [Скетчи Arduino теперь можно запускать одновременно с MicroPython, но только на многоядерных микроконтроллерах](https://habr.com/ru/news/819239/?utm_campaign=819239&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили ToonCrafter — нейросеть для генерации анимационных видео](https://habr.com/ru/news/819185/?utm_campaign=819185&utm_source=habrahabr&utm_medium=rss)
 - [Mistral AI выпустила Codestral — модель машинного обучения для генерации кода](https://habr.com/ru/news/818503/?utm_campaign=818503&utm_source=habrahabr&utm_medium=rss)
-- [«Яндекс» представила майское обновление «Алисы»](https://habr.com/ru/news/818493/?utm_campaign=818493&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
