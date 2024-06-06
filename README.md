@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Павел Дуров представил «Звёзды» — внутреннюю валюту Telegram](https://habr.com/ru/news/820115/?utm_campaign=820115&utm_source=habrahabr&utm_medium=rss)
 - [Япония выбрала видеоигры и аниме в качестве главных отраслей для продвижения японской культуры за границе](https://habr.com/ru/news/820113/?utm_campaign=820113&utm_source=habrahabr&utm_medium=rss)
 - [В продаже появился модуль Raspberry Pi AI Kit](https://habr.com/ru/news/819891/?utm_campaign=819891&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI опубликовала открытую модель Stable Audio для генерации музыки](https://habr.com/ru/news/819823/?utm_campaign=819823&utm_source=habrahabr&utm_medium=rss)
 - [Pay-to-win: разработчики Fortnite признали, что по водителям платных автомобилей сложнее попасть](https://habr.com/ru/news/819551/?utm_campaign=819551&utm_source=habrahabr&utm_medium=rss)
-- [Spotify решила возвращать клиентам деньги за Car Thing — проект закрыли](https://habr.com/ru/news/819547/?utm_campaign=819547&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
