@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В продаже появился модуль Raspberry Pi AI Kit](https://habr.com/ru/news/819891/?utm_campaign=819891&utm_source=habrahabr&utm_medium=rss)
 - [Stability AI опубликовала открытую модель Stable Audio для генерации музыки](https://habr.com/ru/news/819823/?utm_campaign=819823&utm_source=habrahabr&utm_medium=rss)
 - [Pay-to-win: разработчики Fortnite признали, что по водителям платных автомобилей сложнее попасть](https://habr.com/ru/news/819551/?utm_campaign=819551&utm_source=habrahabr&utm_medium=rss)
 - [Spotify решила возвращать клиентам деньги за Car Thing — проект закрыли](https://habr.com/ru/news/819547/?utm_campaign=819547&utm_source=habrahabr&utm_medium=rss)
 - [Apple отказалась выплатить «Лаборатории Касперского» вознаграждение за обнаруженные в 2023 году уязвимости в iOS](https://habr.com/ru/news/819545/?utm_campaign=819545&utm_source=habrahabr&utm_medium=rss)
-- [Google начала тестировать функцию Android Device Streaming на базе Firebase](https://habr.com/ru/news/819275/?utm_campaign=819275&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
