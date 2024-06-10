@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [iOS 18: больше персонализации и кастомизации](https://habr.com/ru/news/820883/?utm_campaign=820883&utm_source=habrahabr&utm_medium=rss)
 - [macOS Sequoia: дублирование iPhone, игры и новый Safari](https://habr.com/ru/news/820873/?utm_campaign=820873&utm_source=habrahabr&utm_medium=rss)
 - [Apple Intelligence: попытка Apple ворваться в ИИ-гонку](https://habr.com/ru/news/820863/?utm_campaign=820863&utm_source=habrahabr&utm_medium=rss)
 - [Павел Дуров представил «Звёзды» — внутреннюю валюту Telegram](https://habr.com/ru/news/820115/?utm_campaign=820115&utm_source=habrahabr&utm_medium=rss)
 - [Япония выбрала видеоигры и аниме в качестве главных отраслей для продвижения японской культуры за границей](https://habr.com/ru/news/820113/?utm_campaign=820113&utm_source=habrahabr&utm_medium=rss)
-- [В продаже появился модуль Raspberry Pi AI Kit](https://habr.com/ru/news/819891/?utm_campaign=819891&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
