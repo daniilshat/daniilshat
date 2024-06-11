@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Разработчики выпустили нейросеть Unique3D для генерации трёхмерных моделей](https://habr.com/ru/news/821139/?utm_campaign=821139&utm_source=habrahabr&utm_medium=rss)
+- [Язык программирования Swift переезжает в отдельную GitHub-организацию](https://habr.com/ru/news/821129/?utm_campaign=821129&utm_source=habrahabr&utm_medium=rss)
 - [watchOS 11: новые функции для отслеживания здоровья и активности](https://habr.com/ru/news/821125/?utm_campaign=821125&utm_source=habrahabr&utm_medium=rss)
 - [DuckDuckGo представила собственный ИИ-чат](https://habr.com/ru/news/821047/?utm_campaign=821047&utm_source=habrahabr&utm_medium=rss)
 - [iOS 18: больше персонализации и кастомизации](https://habr.com/ru/news/820883/?utm_campaign=820883&utm_source=habrahabr&utm_medium=rss)
-- [macOS Sequoia: дублирование iPhone, игры и новый Safari](https://habr.com/ru/news/820873/?utm_campaign=820873&utm_source=habrahabr&utm_medium=rss)
-- [Apple Intelligence: попытка Apple ворваться в ИИ-гонку](https://habr.com/ru/news/820863/?utm_campaign=820863&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
