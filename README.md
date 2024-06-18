@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Runway представила Gen-3 Alpha — очередную нейросеть для генерации видео](https://habr.com/ru/news/822801/?utm_campaign=822801&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики Luma AI выпустили официальное руководство по составлению запросов для Dream Machine](https://habr.com/ru/news/822479/?utm_campaign=822479&utm_source=habrahabr&utm_medium=rss)
 - [iPhone с разряженной батареей будет показывать текущее время на экране](https://habr.com/ru/news/822473/?utm_campaign=822473&utm_source=habrahabr&utm_medium=rss)
 - [Luma AI выпустила Dream Machine — нейросеть для генерации видео](https://habr.com/ru/news/821623/?utm_campaign=821623&utm_source=habrahabr&utm_medium=rss)
 - [Blackmagic представила профессиональную камеру для записи иммерсивных видео Vision Pro](https://habr.com/ru/news/821157/?utm_campaign=821157&utm_source=habrahabr&utm_medium=rss)
-- [Компания Voodoo купила социальную сеть BeReal](https://habr.com/ru/news/821153/?utm_campaign=821153&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
