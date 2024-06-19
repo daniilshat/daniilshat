@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apple пояснила, почему функции Apple Intelligence будут работать только на iPhone 15 Pro](https://habr.com/ru/news/823072/?utm_campaign=823072&utm_source=habrahabr&utm_medium=rss)
 - [Apple запустила тест, который поможет выбрать подходящий под нужды пользователя Mac](https://habr.com/ru/news/823059/?utm_campaign=823059&utm_source=habrahabr&utm_medium=rss)
 - [iOS 18 ускоряет смартфоны: iPhone 15 Pro Max в тестах стал на 25% производительнее в задачах ИИ](https://habr.com/ru/news/822813/?utm_campaign=822813&utm_source=habrahabr&utm_medium=rss)
 - [JetBrains исправила баг в IntelliJ IDE, который позволяет получить доступ к токенам GitHub](https://habr.com/ru/news/822807/?utm_campaign=822807&utm_source=habrahabr&utm_medium=rss)
 - [Runway представила Gen-3 Alpha — очередную нейросеть для генерации видео](https://habr.com/ru/news/822801/?utm_campaign=822801&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики Luma AI выпустили официальное руководство по составлению запросов для Dream Machine](https://habr.com/ru/news/822479/?utm_campaign=822479&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
