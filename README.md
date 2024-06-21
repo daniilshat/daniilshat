@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Японские исследователи разработали CatsMe — нейросеть для анализа кошачьих эмоций](https://habr.com/ru/news/823416/?utm_campaign=823416&utm_source=habrahabr&utm_medium=rss)
+- [Hori представила руль Truck Control System для симуляторов дальнобойщика](https://habr.com/ru/news/823406/?utm_campaign=823406&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила слуховой аппарат Zdeer за 138 долларов](https://habr.com/ru/news/823402/?utm_campaign=823402&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила разрабатывать сторонние приложения для записи пространственных видео на iPhone](https://habr.com/ru/news/823084/?utm_campaign=823084&utm_source=habrahabr&utm_medium=rss)
 - [Apple пояснила, почему функции Apple Intelligence будут работать только на iPhone 15 Pro](https://habr.com/ru/news/823072/?utm_campaign=823072&utm_source=habrahabr&utm_medium=rss)
-- [Apple запустила тест, который поможет выбрать подходящий под нужды пользователя Mac](https://habr.com/ru/news/823059/?utm_campaign=823059&utm_source=habrahabr&utm_medium=rss)
-- [iOS 18 ускоряет смартфоны: iPhone 15 Pro Max в тестах стал на 25% производительнее в задачах ИИ](https://habr.com/ru/news/822813/?utm_campaign=822813&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
