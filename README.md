@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В iPadOS 18 появилась возможность форматировать внешние накопители](https://habr.com/ru/news/824200/?utm_campaign=824200&utm_source=habrahabr&utm_medium=rss)
 - [Мира Мурати: ИИ убьёт некоторые профессии, но они изначально не должны были существовать](https://habr.com/ru/news/823904/?utm_campaign=823904&utm_source=habrahabr&utm_medium=rss)
 - [Reuters: ByteDance и Broadcom разрабатывают чипы для машинного обучения](https://habr.com/ru/news/823888/?utm_campaign=823888&utm_source=habrahabr&utm_medium=rss)
 - [Вышло приложение Final Cut Camera для iPhone и iPad](https://habr.com/ru/news/823854/?utm_campaign=823854&utm_source=habrahabr&utm_medium=rss)
 - [Японские исследователи разработали CatsMe — нейросеть для анализа кошачьих эмоций](https://habr.com/ru/news/823416/?utm_campaign=823416&utm_source=habrahabr&utm_medium=rss)
-- [Hori представила руль Truck Control System для симуляторов дальнобойщика](https://habr.com/ru/news/823406/?utm_campaign=823406&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
