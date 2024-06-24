@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Вышло приложение Final Cut Camera для iPhone и iPad](https://habr.com/ru/news/823854/?utm_campaign=823854&utm_source=habrahabr&utm_medium=rss)
 - [Японские исследователи разработали CatsMe — нейросеть для анализа кошачьих эмоций](https://habr.com/ru/news/823416/?utm_campaign=823416&utm_source=habrahabr&utm_medium=rss)
 - [Hori представила руль Truck Control System для симуляторов дальнобойщика](https://habr.com/ru/news/823406/?utm_campaign=823406&utm_source=habrahabr&utm_medium=rss)
 - [Xiaomi представила слуховой аппарат Zdeer за 138 долларов](https://habr.com/ru/news/823402/?utm_campaign=823402&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила разрабатывать сторонние приложения для записи пространственных видео на iPhone](https://habr.com/ru/news/823084/?utm_campaign=823084&utm_source=habrahabr&utm_medium=rss)
-- [Apple пояснила, почему функции Apple Intelligence будут работать только на iPhone 15 Pro](https://habr.com/ru/news/823072/?utm_campaign=823072&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
