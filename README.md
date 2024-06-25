@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi Connect теперь поддерживает больше устройств и позволяет получать удалённый доступ к командной оболочке](https://habr.com/ru/news/824576/?utm_campaign=824576&utm_source=habrahabr&utm_medium=rss)
+- [В Notion появилась возможность создавать полноценные веб-сайты](https://habr.com/ru/news/824572/?utm_campaign=824572&utm_source=habrahabr&utm_medium=rss)
 - [Motorola анонсировала Moto Tag — беспроводную метку для вещей, похожую на AirTag от Apple](https://habr.com/ru/news/824568/?utm_campaign=824568&utm_source=habrahabr&utm_medium=rss)
 - [Разработчики выпустили нейросеть See-2-Sound для генерации звуков окружения по картинке или видео](https://habr.com/ru/news/824552/?utm_campaign=824552&utm_source=habrahabr&utm_medium=rss)
 - [Apple разрешила разработчикам загружать в App Store приложения объёмом до 4 ГБ](https://habr.com/ru/news/824534/?utm_campaign=824534&utm_source=habrahabr&utm_medium=rss)
-- [Исследователи из Стэнфорда представили HumanPlus — открытый проект человекоподобного робота](https://habr.com/ru/news/824202/?utm_campaign=824202&utm_source=habrahabr&utm_medium=rss)
-- [В iPadOS 18 появилась возможность форматировать внешние накопители](https://habr.com/ru/news/824200/?utm_campaign=824200&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
