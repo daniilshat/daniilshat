@@ -4,13 +4,9 @@
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
 
-- 🌱 I’m currently learning **QA, python, web**
-
-- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
+- 🌱 I’m currently learning **Swift, Python, Web**
 
 - 📫 How to reach me **daniilshstukhin@gmail.com**
-
-- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
 
 - 🌍 I speak Russian (native), English (B2)
 
