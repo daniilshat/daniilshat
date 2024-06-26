@@ -59,9 +59,9 @@ No activity tracked
 
 ### 📃 Latest Habr Posts  
 <!-- BLOG-POST-LIST:START -->
+- [В Google Wallet добавили поддержку ключей от умных замков отелей](https://habr.com/ru/news/824780/?utm_campaign=824780&utm_source=habrahabr&utm_medium=rss)
 - [VK запустила единый сервис авторизации для бизнеса и разработчиков](https://habr.com/ru/news/824766/?utm_campaign=824766&utm_source=habrahabr&utm_medium=rss)
 - [Raspberry Pi Connect теперь поддерживает больше устройств и позволяет получать удалённый доступ к командной оболочке](https://habr.com/ru/news/824576/?utm_campaign=824576&utm_source=habrahabr&utm_medium=rss)
 - [В Notion появилась возможность создавать полноценные веб-сайты](https://habr.com/ru/news/824572/?utm_campaign=824572&utm_source=habrahabr&utm_medium=rss)
 - [Motorola анонсировала Moto Tag — беспроводную метку для вещей, похожую на AirTag от Apple](https://habr.com/ru/news/824568/?utm_campaign=824568&utm_source=habrahabr&utm_medium=rss)
-- [Разработчики выпустили нейросеть See-2-Sound для генерации звуков окружения по картинке или видео](https://habr.com/ru/news/824552/?utm_campaign=824552&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->  
