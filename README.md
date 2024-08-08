@@ -48,9 +48,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          2 hrs 14 mins   ██████████████░░░░░░░░░░░   55.97 %
-Figma Design   1 hr 22 mins    ████████▓░░░░░░░░░░░░░░░░   34.35 %
-Swift          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Other          1 hr 56 mins    ████████████░░░░░░░░░░░░░   48.33 %
+Figma Design   1 hr 40 mins    ██████████▒░░░░░░░░░░░░░░   41.96 %
+Swift          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
 ```
 
 <!--END_SECTION:waka-->
