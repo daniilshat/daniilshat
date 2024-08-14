@@ -48,8 +48,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          38 mins         ██████████████▓░░░░░░░░░░   59.18 %
-Figma Design   26 mins         ██████████▒░░░░░░░░░░░░░░   40.82 %
+Figma Design   59 mins         ██████████████▓░░░░░░░░░░   59.05 %
+Other          41 mins         ██████████▒░░░░░░░░░░░░░░   40.95 %
 ```
 
 <!--END_SECTION:waka-->
