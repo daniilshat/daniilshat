@@ -48,9 +48,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          3 hrs 24 mins   ███████████████████▓░░░░░   78.64 %
-Image (svg)    38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Figma Design   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Other         3 hrs 35 mins   █████████████████████▒░░░   85.02 %
+Image (svg)   38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
 ```
 
 <!--END_SECTION:waka-->
