@@ -48,10 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash          1 hr 6 mins     ████████████░░░░░░░░░░░░░   48.58 %
-Other         56 mins         ██████████▒░░░░░░░░░░░░░░   41.22 %
-Image (svg)   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-INI           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
