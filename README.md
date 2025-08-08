@@ -48,7 +48,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   1 hr 45 mins    █████████████████████████   100.00 %
+Image (svg)   1 hr 47 mins    ██████████████████░░░░░░░   72.20 %
+HTML          38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+Other         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
